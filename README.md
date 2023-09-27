@@ -37,3 +37,13 @@ They could be your friends, parents, teachers, or some famous people.
 They are the motivations to keep you forward. 
 
 - Summary
+
+    We all have our role models. Someone said it's his wife, someone said it's her sister, someone said it's his friend, someone said it's very famous person like Elon Musk, someone said it's super star like Priyanka Chopra, someone said it's very famous scholar like Dr. Jayashankar.
+
+    Anyway, different people have different role models.
+    But the common thing is, our role models are like our lamps, they indicate our life diirections, they are the motivations to keep us forward!
+
+
+
+
+
