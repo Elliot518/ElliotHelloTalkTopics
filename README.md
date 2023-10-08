@@ -6,6 +6,9 @@ Here are the historic sessions:
 | ---- | ---- |
 | [1. Do you like your current job? Why?](#Topic1) | Sep. 25th, 2023 |
 | [2. Do you have your role models?](#Topic2) | Sep. 26th, 2023 |
+| [3. Ideal working environment?](#Topic3) | Sep. 27th, 2023 |
+| [4. EQ or IQ,which one is important?](#Topic4) | Oct. 7th, 2023 |
+| [5. Talk about the generation gap](#Topic5) | Oct. 8th, 2023 |
 
 <hr>
 
@@ -42,6 +45,38 @@ They are the motivations to keep you forward.
 
     Anyway, different people have different role models.
     But the common thing is, our role models are like our lamps, they indicate our life diirections, they are the motivations to keep us forward!
+
+
+
+<hr>
+
+### Topic3
+
+### Ideal working environment?
+
+> What is the most ideal working environment in your mind?
+For example, you want a height-adjustable table, so you can sit or stand as you wish.
+You want a comfortable chair, you want a sofa, you want flowers around you, you want to work in a silent location, or even you want to work in a forest...
+Just use your imagination to talk.
+
+- Summary
+
+    An ideal working environment is very necessary. When we talk about it, we should not only consider those hardwares such as big desktop, multiple monitors, height-adjustable table, plants and flowers, we should consider the elements besides hardwares as well, such as a good colleagues relationship, a good atmosphere for researching, good and friendly company culture for employees' healthcare, for example: yoga, meditation, etc.
+    Anyway, an ideal working environment can help us improve our working efficiency and work happily.
+
+- Extra Materials
+
+
+
+<hr>
+
+### Topic 4
+
+### EQ or IQ,which one is important?
+
+>EQ = Emotional Quotient
+>
+>IQ = Intelligence Quotient
 
 
 
