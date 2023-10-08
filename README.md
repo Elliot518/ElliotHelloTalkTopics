@@ -66,7 +66,7 @@ Just use your imagination to talk.
 
 - Extra Materials
 
-
+    [Amazon Rainforest Headquarters](https://www.youtube.com/watch?v=OcwKSm2Qf9c&t=3s)
 
 <hr>
 
@@ -78,7 +78,18 @@ Just use your imagination to talk.
 >
 >IQ = Intelligence Quotient
 
+- Summary
+
+    If you have a high IQ, that means you are very smart. If you have a high EQ, that meanes you are very good at communication. We must admit, IQ and EQ are both imporarnt. Someone said, if you got a high IQ, you can improve your EQ by your IQ. I think in some way, it's true. But I think improve your EQ is not as easy as you think, it includes a lot aspects such as understand the other people, emotion control etc. Since IQ is naturally born, we can do nothing about it, while EQ could really be improved by your deeper experience and understanding of the world.
+    What we need to do is to be humble and work hard to improve ourselves.
+
+<hr>
+
+### Topic5
+
+> Do you have generation gap with your parents? 
+Or with some elderly people like your boss?
+Tell us about what you understand about the generation gap, how to deal with it or just leave it?
 
 
-
-
+- Summary
