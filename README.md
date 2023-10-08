@@ -70,7 +70,7 @@ Just use your imagination to talk.
 
 <hr>
 
-### Topic 4
+### Topic4
 
 ### EQ or IQ,which one is important?
 
