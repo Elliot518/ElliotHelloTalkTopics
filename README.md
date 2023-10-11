@@ -9,6 +9,7 @@ Here are the historic sessions:
 | [3. Ideal working environment?](#Topic3) | Sep. 27th, 2023 |
 | [4. EQ or IQ,which one is important?](#Topic4) | Oct. 7th, 2023 |
 | [5. Talk about the generation gap](#Topic5) | Oct. 8th, 2023 |
+| [6. Do you make plans?How?](#Topic6) | Oct. 11th, 2023 |
 
 <hr>
 
@@ -93,3 +94,15 @@ Tell us about what you understand about the generation gap, how to deal with it 
 
 
 - Summary
+
+<hr>
+
+### Topic6
+
+### Do you make plans?How?
+
+> Life is to setup various targets. Someone want to become rich, someone want to become a famous star, someone just want to be good in his or her job. No matter your targets are big or small, you indeed should setup them, because without targets you will easily get lost just like a ship sailing in the sea has no direction. Ok, so if you already setup your targets, what you need to do is to make them real or implemented. How? The answer is to make plans! How do you setup your plans? The plans could be daily or weekly or monthly or by several years. Welcome to join my voice room to express your opinion.
+
+
+- Summary
+
