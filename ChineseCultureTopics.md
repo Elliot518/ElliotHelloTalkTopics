@@ -4,7 +4,7 @@ Here are the historic sessions:
 
 | Topic | Date |
 | ---- | ---- |
-| [1. Chinese Culture: Ethnic Groups](#Topic1) | Oct. 13rd, 2023 |
+| [1. Ethnic Groups & Origin of Chinese Nation](#Topic1) | Oct. 13rd, 2023 |
 
 <hr>
 
@@ -12,9 +12,9 @@ Here are the historic sessions:
 
 ### Topic1
 
-### Chinese Culture: Ethnic Groups
+### Ethnic Groups&Origin of Chinese Nation
 
-> Are you satisfied with your current job? You love it or you do it just to make a living?
+> China is a unitary multi-ethnic country, there are 56 ethnic groups in China. Do you know the ancestors of the Chinese nation?
 
 - Summary
 
