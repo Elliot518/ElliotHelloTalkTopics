@@ -10,6 +10,7 @@ Here are the historic sessions:
 | [4. EQ or IQ,which one is important?](#Topic4) | Oct. 7th, 2023 |
 | [5. Talk about the generation gap](#Topic5) | Oct. 8th, 2023 |
 | [6. Do you make plans?How?](#Topic6) | Oct. 11th, 2023 |
+| [7. qualities of a successful person](#Topic7) | Oct. 17th, 2023 |
 
 <hr>
 
@@ -106,3 +107,19 @@ Tell us about what you understand about the generation gap, how to deal with it 
 
 - Summary
 
+<hr>
+
+### Topic7
+
+### qualities of a successful person
+
+> What qualities should a successful person have?
+Smart? Talent?
+>
+>Or
+>
+>Persistence and endurance?
+Never give up?Let us know your opinion!
+
+
+- Summary
