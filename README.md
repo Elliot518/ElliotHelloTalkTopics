@@ -123,3 +123,18 @@ Never give up?Let us know your opinion!
 
 
 - Summary
+    
+    How to define a person to be successful? That's a very good question.<br>
+    Someone said a successful person must be rich or powerful, that's true, but I also think for ordinary people's success, if they did a great job
+    in their normal work, we can also call that success. <br>
+    So what qualities should a successful person have?<br>
+    Someone mentioned hard working and healthy body, that's absolutely.<br>
+    No pain, no gain. Hard working is mandatory elements we should have if we
+    want to be successful.<br>
+    Besides that, healthy body, persistence and endurance, these are also very important, because to be successful is like a long-time target, you need abundant physical strength and energy to support your hard working, and you
+    should never give up even experienced many failures.
+    Someone talked about concentration, I agree with that because success needs focus. <br>
+    Someone mentioned a good and positive mood is very necessary, yes, that's true,
+    if we want to achieve our goals, we must have a healthy mind, depression and unhappy should never be friends of success, right?<br>
+    In conclusion, a successful person should have a lot of good and positive qualities, it's quite hard to have those qualities which also means to be successful also needs a lot of our efforts, but it's worthy, isn't it?<br>
+    Let's try to be a successful person!
