@@ -11,6 +11,7 @@ Here are the historic sessions:
 | [5. Talk about the generation gap](#Topic5) | Oct. 8th, 2023 |
 | [6. Do you make plans?How?](#Topic6) | Oct. 11th, 2023 |
 | [7. qualities of a successful person](#Topic7) | Oct. 17th, 2023 |
+| [8. Can justice always defeat evil?](#Topic8) | Oct. 18th, 2023 |
 
 <hr>
 
@@ -138,3 +139,19 @@ Never give up?Let us know your opinion!
     if we want to achieve our goals, we must have a healthy mind, depression and unhappy should never be friends of success, right?<br>
     In conclusion, a successful person should have a lot of good and positive qualities, it's quite hard to have those qualities which also means to be successful also needs a lot of our efforts, but it's worthy, isn't it?<br>
     Let's try to be a successful person!
+
+
+<hr>
+
+
+
+
+### Topic8
+
+### Can justice always defeat evil?
+
+> As an old saying goes: Justice may be late, but it will never be absent!
+>
+> Can justice always defeat evil?
+>
+> Welcome to join my voice room to express your opinion.
