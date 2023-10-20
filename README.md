@@ -12,6 +12,7 @@ Here are the historic sessions:
 | [6. Do you make plans?How?](#Topic6) | Oct. 11th, 2023 |
 | [7. qualities of a successful person](#Topic7) | Oct. 17th, 2023 |
 | [8. Can justice always defeat evil?](#Topic8) | Oct. 18th, 2023 |
+| [9. Opportunities? Challenges? Coexist?](#Topic9) | Oct. 20th, 2023 |
 
 <hr>
 
@@ -155,3 +156,22 @@ Never give up?Let us know your opinion!
 > Can justice always defeat evil?
 >
 > Welcome to join my voice room to express your opinion.
+
+<hr>
+
+
+### Topic9
+
+### Opportunities? Challenges? Coexist?
+
+> People always say: Where there are challenges, there are opportunities.
+>
+> Do opportunities always coexist with challenges?
+>
+> Accepting a challenge means taking risks.
+Have you considered the risks?
+Are you willing to take risks?
+As an old Chinese saying goes: Seeking wealth through risks.
+Are you a risk taker?
+
+- Summary
