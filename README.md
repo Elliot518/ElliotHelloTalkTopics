@@ -171,7 +171,7 @@ Never give up?Let us know your opinion!
 > Accepting a challenge means taking risks.
 Have you considered the risks?
 Are you willing to take risks?
-As an old Chinese saying goes: Seeking wealth through risks.
+As an old Chinese saying goes: If you wanna seek wealth, you've got to risks.
 Are you a risk taker?
 
 - Summary
