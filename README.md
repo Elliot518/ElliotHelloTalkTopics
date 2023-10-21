@@ -157,6 +157,12 @@ Never give up?Let us know your opinion!
 >
 > Welcome to join my voice room to express your opinion.
 
+- Summary
+
+    Before we talking about the topic can justice always defeat evil, I think we'd better figure out the definition of justice. How to define justice? What is justice? Regarding this the speakers have different opinions.
+    Someone thought justice could only be defined be the winners, by the power, by the authority. Though I don't want to admit it, it's true. If you look back at history, there are many such facts, We don’t want to give examples here because this involves sensitive information. What you need to know is that this is the truth, a truth that we are forced but unwilling to admit.
+    
+
 <hr>
 
 
