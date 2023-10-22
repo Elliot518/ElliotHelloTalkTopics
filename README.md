@@ -183,3 +183,12 @@ As an old Chinese saying goes: If you wanna seek wealth, you've got to risks.
 Are you a risk taker?
 
 - Summary
+    People always say: Where there are challenges, there are opportunities.
+    That means opportunities always coexist with challenges.
+    Someone said challenges are always good because it make us grow.
+    When facing challenges, if we fail, we can learn lessons from those failures,
+    and finally we succeed. Think about those famous entrepreneurs, they all experienced many challenges and finally succeeded.
+    Someone said accepting a challenge means we must jump out of our comfort zone.
+    That's true, if we stay in our comfort zone without any challenges, we will not achieve great success and thus live an ordinary life.
+    Someone said challenge means blessing and curse. Blessing means if we succeed, we will get huge rewards, but if we fail, we have to take huge losses which is a curse. Yes, that's true. Every sword has two edges, every coin has two sides, how can we enjoy success without taking risks? No pain, no gain, we must overcome those obstacles, that'll take great effort, consuming a lot of our time, you need a strong mind, persistence and endurance, some people may say that this is so tough, but isn't this the charm of the process of accepting challenges?
+
