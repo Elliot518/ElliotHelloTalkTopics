@@ -13,6 +13,7 @@ Here are the historic sessions:
 | [7. qualities of a successful person](#Topic7) | Oct. 17th, 2023 |
 | [8. Can justice always defeat evil?](#Topic8) | Oct. 18th, 2023 |
 | [9. Opportunities? Challenges? Coexist?](#Topic9) | Oct. 20th, 2023 |
+| [10. Suggest the movies you like](#Topic10) | Oct. 25th, 2023 |
 
 <hr>
 
@@ -191,4 +192,16 @@ Are you a risk taker?
     Someone said accepting a challenge means we must jump out of our comfort zone.
     That's true, if we stay in our comfort zone without any challenges, we will not achieve great success and thus live an ordinary life.
     Someone said challenge means blessing and curse. Blessing means if we succeed, we will get huge rewards, but if we fail, we have to take huge losses which is a curse. Yes, that's true. Every sword has two edges, every coin has two sides, how can we enjoy success without taking risks? No pain, no gain, we must overcome those obstacles, that'll take great effort, consuming a lot of our time, you need a strong mind, persistence and endurance, some people may say that this is so tough, but isn't this the charm of the process of accepting challenges?
+
+<hr>
+
+### Topic10
+
+### Suggest the movies you like
+
+> Film is an art.
+By watching movies we can enjoy the feeling of actor’s happiness and sadness, fear and anger, understand a country’s history and culture.
+There are a lot movie types: love, action, horror, science fiction, war, biography, inspirational, etc.
+Everyone has their own movie preferences.
+Could you tell us some of the movies you like?
 
