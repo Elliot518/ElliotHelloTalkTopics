@@ -205,3 +205,15 @@ There are a lot movie types: love, action, horror, science fiction, war, biograp
 Everyone has their own movie preferences.
 Could you tell us some of the movies you like?
 
+- Summary
+
+    Movies have been talked: <br>
+    - [GOAL! THE DREAM BEGINS](Movie/Goal.md)
+    - [The Station Agent]()
+    - [The Banshees of Inisherin]()
+    - [Hello Teacher(老师好)]()
+    - [The Matrix]()
+    - [Brokeback Mountain(断背山)]()
+    - [人生大事(Life Events)]()
+    - [ハウルの動く城(Howl's Moving Castle)]()
+
