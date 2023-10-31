@@ -17,3 +17,6 @@ I like the me 3 years ago.<br>
 I like my three-year-ago self.
 
 &nbsp;
+
+Software is eating the world, but AI is going to eat software. <br>
+软件正在吞噬世界，但人工智能也将吞噬软件。
