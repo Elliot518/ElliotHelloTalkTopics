@@ -27,3 +27,8 @@ Software is eating the world, but AI is going to eat software. <br>
 Good people being bullied.
 Good horse being ridden.
 
+&nbsp;
+
+换位思考
+Think from the other person’s perspective
+
