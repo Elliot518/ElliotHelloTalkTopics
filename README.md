@@ -234,7 +234,7 @@ How can we make our short-term goals realized?
 - Summary
 
     Finish What You Start, what does that mean?
-    They mean making your intentions reality.
+    It means making your intentions reality.
     Too often, we say we’ll do something, and we might even start it on one lucky weekend.
     But as time goes by, it becomes difficult or we become busy or feel fatigue or bored, we normally abandon it too easily. <br>
 
