@@ -14,6 +14,7 @@ Here are the historic sessions:
 | [8. Can justice always defeat evil?](#Topic8) | Oct. 18th, 2023 |
 | [9. Opportunities? Challenges? Coexist?](#Topic9) | Oct. 20th, 2023 |
 | [10. Suggest the movies you like](#Topic10) | Oct. 25th, 2023 |
+| [11. Finish What You Start](#Topic11) | Oct. 31th, 2023 |
 
 <hr>
 
@@ -140,8 +141,7 @@ Never give up?Let us know your opinion!
     Someone mentioned a good and positive mood is very necessary, yes, that's true,
     if we want to achieve our goals, we must have a healthy mind, depression and unhappy should never be friends of success, right?<br>
     In conclusion, a successful person should have a lot of good and positive qualities, it's quite hard to have those qualities which also means to be successful also needs a lot of our efforts, but it's worthy, isn't it?<br>
-    Let's try to be a successful person!
-
+    Let's try to be a successful person! <br>
 
 <hr>
 
@@ -216,4 +216,44 @@ Could you tell us some of the movies you like?
     - [Brokeback Mountain(断背山)]()
     - [人生大事(Life Events)]()
     - [ハウルの動く城(Howl's Moving Castle)]()
+
+<hr>
+
+### Topic11
+
+### Finish What You Start
+
+> Have you ever started exercising but gave up after a while?
+Have you ever read a book but didn't finish it?
+Have you ever learned a skill but then stopped?
+Have you ever set a flag but failed to complete it for one reason or another?
+Do you remember how many times you started something but gave up halfway?
+How can we make our short-term goals realized?
+
+
+- Summary
+
+    Finish What You Start, what does that mean?
+    They mean making your intentions reality.
+    Too often, we say we’ll do something, and we might even start it on one lucky weekend.
+    But as time goes by, it becomes difficult or we become busy or feel fatigue or bored, we normally abandon it too easily. <br>
+
+    Thank you to many friends who participated in the discussion on this topic that day. <br>
+    I summarized what everyone said about their experiences, the two most talked about are fitness and English learning. <br>
+    Someone said she used to watch live English news online but gave up after persisting for a few weeks as it was too brain exhausting. <br>
+    Someone said he got up very early in the morning and arrived at the company before 7:00 am just to recite English words, but he stopped after several months' persistence because he fell in love wth someone. <br>
+    In these two cases of stopping learning English, the former was due to lack of persistence, and the latter was due to unexpected reasons.<br>
+    Then we check the cases of fitness, some people say they gave up because they were lazy or too tired. <br>
+
+    Based on the above, we see these keywords: lazy, tired, accidental reasons, it seems these are the key devils to stop us following through! <br>
+    So, what Shall we do? <br>
+    Have you ever seen the scene of Los Angeles at 4 am？<br>
+    This is the classic quote left to us by the basketball superstar Kobe Bryant who already passed away. <br>
+    Yes, I think we can find the answer in this superstar's legend. <br>
+    The answer is self-descipline! <br>
+    Self-discipline enables you to get your head down and work when you need to, even if you don’t want to.
+    It’s the ability to control yourself so that you retain focus on what needs to be done, despite the temptations and distractions you may encounter. This element is essential because it gives you the power to regulate your own thoughts, feelings, actions toward ends that are meaningful to you. Without self-discipline, you wouldn’t be able to consistently make effort on something until it’s done. <br>
+
+    About self-discipline we might have a lot to talk, I think maybe it could be our next wonderful topic! :-)
+
 
