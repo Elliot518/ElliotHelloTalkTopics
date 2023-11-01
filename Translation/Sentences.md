@@ -29,6 +29,21 @@ Good horse being ridden.
 
 &nbsp;
 
-换位思考
+换位思考 <br>
 Think from the other person’s perspective
+
+&nbsp;
+
+同一时间做几件事情 <br>
+Do several things at the same time
+
+&nbsp;
+
+drain someone off <br>
+耗尽某人的精力
+
+
+
+
+
 
