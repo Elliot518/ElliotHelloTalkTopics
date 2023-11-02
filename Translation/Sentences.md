@@ -47,3 +47,13 @@ drain someone off <br>
 
 My land, my game, my rules <br>
 我的地盘我做主。
+
+&nbsp;
+
+扬长避短 <br>
+take advantage of strength and avoid weakness <br>
+
+&nbsp;
+
+取长补短 <br>
+Learn from other people's strength to make up oneself <br>
