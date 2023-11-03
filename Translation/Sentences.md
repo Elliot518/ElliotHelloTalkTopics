@@ -57,3 +57,8 @@ take advantage of strength and avoid weakness <br>
 
 取长补短 <br>
 Learn from other people's strength to make up oneself <br>
+
+friendship is priceless <br>
+友谊是无价的 <br>
+
+
