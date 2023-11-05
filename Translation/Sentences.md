@@ -64,6 +64,6 @@ friendship is priceless <br>
 
 &nbsp;
 
-Sometimes it looks like luck, but you didn't see the strength accumulated through long-term hard work. Without strength, you can’t catch opportunities.<br>
+Sometimes it looks like luck, but you didn't see the strength accumulated by long-term hard work. Without strength, you can’t catch opportunities.<br>
 有时候看似运气好，却没有看到长期努力积累的力量。没有实力，就抓不住机会。
 
