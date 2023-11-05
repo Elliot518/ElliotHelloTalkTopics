@@ -67,3 +67,19 @@ friendship is priceless <br>
 Sometimes it looks like luck, but you didn't see the strength accumulated by long-term hard work. Without strength, you can’t catch opportunities.<br>
 有时候看似运气好，却没有看到长期努力积累的力量。没有实力，就抓不住机会。
 
+&nbsp;
+
+put an end to
+停止某个
+
+上班很累，总不能不上吧。赚钱很苦，总不能不赚吧。巷子里的猫，很自由，却没有归宿。围墙里的狗，有归宿，但一辈子，都得低头。成年人的世界，你可以做你不喜欢的事,但你必须做你应该做的事。
+
+&nbsp;
+
+Every cloud has a silver lining
+塞翁失马，焉知非福
+
+&nbsp;
+
+what's done is done 木已成舟
+
