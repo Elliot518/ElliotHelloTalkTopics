@@ -25,3 +25,10 @@ dozing off during the day <br>
 pet phrase 口头禅 <br>
 
 bittersweet  有苦又有甜,苦乐参半 <br>
+
+hoax (a plan to deceive someone) 恶作剧，骗局 <br>
+
+pathetic 可怜的 <br>
+(feelings of sadness, sympathy, or sometimes lack of respect, especially because a person or an animal is suffering) <br>
+
+
