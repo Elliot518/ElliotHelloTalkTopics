@@ -81,5 +81,17 @@ Every cloud has a silver lining
 
 &nbsp;
 
-what's done is done 木已成舟
+what's done is done 木已成舟  <br>
+
+followers attrition list 关注者流失列表  <br>
+
+put someone on the pedestal /ˈpedɪst(ə)l/
+把某人推向神坛 盲目崇拜某人  <br>
+
+他们对你收费 they charge you <br>
+
+顺其自然  let it naturely happens  <br>
+
+学历贬值 devaluation of academic qualifications  <br>
+
 

@@ -50,3 +50,10 @@ B: It was terrible, the audience hated my jokes. But I’m on a learning curve
 
 &nbsp;
 
+### 4. a flash in the pan (昙花一现)
+
+> something that happened only once or for a short time and was not repeated
+
+
+
+
