@@ -365,3 +365,15 @@ Earth is about 4 and half billion years old, civilizations as measured from the 
 Humanity never stop exploring sd we know one day the resources on the earth will be exhausted.
 
 - Summary
+
+    The more we can expand the scope and scale of consciousness, digital and biological, the more we are able to answer what is universe.
+    Earth, and even the solar system and the Galaxy, are very tiny compared to the universe.
+    Earth is about 4 and half billion years old, civilizations as measured from the first writing is only about 5,000 years old,that's one millionth of earth's existence.
+    So civilization around has been a flash of pan, annihilation of all life on earth is certainty.
+    If we are able to go out and explore the other planets
+
+
+
+
+
+

@@ -32,3 +32,8 @@ pathetic 可怜的 <br>
 (feelings of sadness, sympathy, or sometimes lack of respect, especially because a person or an animal is suffering) <br>
 
 
+solitary
+solidarity <br>
+
+multiplanetary
+
