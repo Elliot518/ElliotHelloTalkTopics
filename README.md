@@ -1,4 +1,4 @@
-# Welcome to Elliot's HelloTalk Topics
+# Elliot's HelloTalk Topics
 
 Here are the historic sessions:
 
@@ -339,6 +339,10 @@ How do you practice Reading Comprehension.
 How do you practice Writing.
 
 - Summary
+
+    We human constantly make mistakes, because of this, mankind continues to make progress. <br>
+    So when you talk with other people, don't be scared of making any kind of mistakes including grammar, words, phrases. <br>
+    Try to talk more with people, don't be afraid of making mistakes to humiliate yourself, instead, humiliate yourself as much as possible. If you don't talk, you won't have the chance to humliate yourself.
 
 <hr>
 
