@@ -15,6 +15,11 @@ Here are the historic sessions:
 | [9. Opportunities? Challenges? Coexist?](#Topic9) | Oct. 20th, 2023 |
 | [10. Suggest the movies you like](#Topic10) | Oct. 25th, 2023 |
 | [11. Finish What You Start](#Topic11) | Oct. 31th, 2023 |
+| [12. Daily work or study](#Topic12) | Nov. 3rd, 2023 |
+| [13. Introduce the city you live](#Topic13) | Nov. 7th, 2023 |
+| [14. How do you learn a new language](#Topic14) | Nov. 10th, 2023 |
+| [15. Memories from student days](#Topic15) | Nov. 14th, 2023 |
+| [16. Explore Space](#Topic16) | Nov. 17th, 2023 |
 
 <hr>
 
@@ -257,3 +262,106 @@ How can we make our short-term goals realized?
     About self-discipline we might have a lot to talk, I think maybe it could be our next wonderful topic! :-)
 
 
+<hr>
+
+### Topic12
+
+### Daily work or study
+
+> Daily work or study takes most part of our lives.
+Tell us about your daily work or study details.
+How do you manage your time?
+Is your daily work or study efficient? If not, how do you think you can improve it?
+
+- Summary
+
+    Most people spend quite a long time in their commuting time every working day because they live in the suburb and need to go to work in the downtown area. Therefore they raise a good habbit to take full advantage of the fragmented time slots. For example, someone reads eBooks while taking a metro or bus. Some others listen to English podcast or news while driving to work. 
+
+    During working hours, many people will be very busy from morning to night, and the pace is very fast.
+    After work, some people like to do exercises to keep them fit while others prefer a leisurely walk in the park after dinner.
+
+<hr>
+
+### Topic13
+
+### Introduce the city you live
+
+> How's the city you live?
+What scenic spots does it have?
+Can you suggest some delicious food and fun places in your city?
+How is the traffic situation?
+Do you know your city's history?
+
+- Summary
+    - China
+    
+        Greater Bay Area in Shenzheng
+        
+        beautiful pearl river
+
+        ShenZheng: a fish village in the 1980s but highly developed after opening and reforming and became the economic zone afterwards
+
+        GuiZhou: mountainous area, multi-culture province, weather comfortable, not hot not cold
+
+        Shanghai: magical city
+
+        XiAn: north east of China, ancient capitals of 13 dynasties, 
+        famous sceneries: wild goose tower
+        delicious foods: Chinese meat hamburger
+
+
+    - Algeria
+
+        Jijel (Arabic: جيجل), the classical Igilgili, is the capital of Jijel Province in north-eastern Algeria. It is flanked by the Mediterranean Sea in the region of Corniche Jijelienne and had a population of 131,513 in 2008.
+
+        Jijel is the administrative and trade center for a region specialising in cork processing, leather tanning and steelmaking. Local crops include citrus and grain. Fishing is also of great importance. Tourists (mainly Algerians) are attracted to Jijel for its landscapes and fine sand beaches. Being a resort town, there are many hotels and restaurants. 
+
+    - Iran
+
+        Rasht (Persian: رشت, romanized: Rašt [ɾæʃt] ⓘ; Gilaki: Rəšt)[4][a] is a city in the Central District of Rasht County, Gilan province, Iran, serving as capital of the district, the county and the province. The city is also known as the "City of Rain" (شهر باران, Šahr-e Bārān), and with a population of 679,995 in 2016,[3] it is the most populous city of northern Iran.
+
+        Rasht is the largest city on Iran's Caspian Sea coast. Due to being between the coast and the mountains, the local environment is rainy with humid subtropical and mediterranean influences. It also has temperate rainforest to its south, contrasting to the mostly arid Iran.
+
+        It is a major trade center between Caucasia, Russia, and Iran using the port of Bandar-e Anzali. Rasht is also a major tourist center with the resort of Masouleh in the adjacent mountains and the beaches of Caspian as some of the major attractions.
+
+        Historically, Rasht was a major transport and business center which connected Iran to Russia and the rest of Europe, and because of this was known as the "Gate of Europe". The city has a history that goes back to the 13th century but its modern history dates back to the Safavid era during which Rasht was a major silk trade center with numerous textile workshops. In 2015, this city joined the network of creative cities of the world as a creative gastronomy city under the supervision of UNESCO.
+
+<hr>
+
+### Topic14
+
+### How do you learn a new language
+
+> As we all know, learning a new language(except programming languages) requires four major elements: Listening, Speaking, Reading, and Writing.
+How do you practice Listening.
+How do you practice Speaking.
+How do you practice Reading Comprehension.
+How do you practice Writing.
+
+- Summary
+
+<hr>
+
+### Topic15
+
+### Memories from student days
+
+> Do you remember some interesting memories that you will never forget when you were a student?
+Are you a top student or a bad student?
+Do you have a favorite teacher or a teacher you dislike most?
+Did you have a best friend in school?
+What is the thing you are most proud of when you were a student?
+
+- Summary
+
+<hr>
+
+### Topic16
+
+### Explore Space
+
+> Earth, and even the solar system and the Galaxy, are very tiny compared to the universe.
+Earth is about 4 and half billion years old, civilizations as measured from the first writing is only about 5,000 years old,that's one millionth of earth's existence.
+Humanity never stop exploring sd we know one day the resources on the earth will be exhausted.
+
+- Summary
