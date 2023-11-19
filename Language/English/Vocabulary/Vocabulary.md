@@ -35,5 +35,6 @@ pathetic 可怜的 <br>
 solitary
 solidarity <br>
 
-multiplanetary
+multiplanetary 多行星的
 
+moat 护城河
