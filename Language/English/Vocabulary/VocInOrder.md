@@ -19,3 +19,9 @@
 - not perform as well as it should(machine or part of the body)
 
     eg: My car always acts up in cold weather
+
+### act upon 
+
+- take action
+
+    eg: You must act upon the advice of your parents
