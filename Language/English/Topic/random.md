@@ -27,3 +27,14 @@ The woman screamed for help after falling to the ground. <br>
 Pets are cute, especially puppies or kittens.
 If you are bitten /ˈbɪtn/ by a dog or scratched by a cat, you got go to the hospital to get a rabies/ˈreɪbiːz/ vaccine.
 
+Dog Types:
+
+柴犬(Shiba Inu)
+Labrador(拉布拉多)
+Schnauzer(雪纳瑞)
+husky(哈士奇)
+Samoyed(萨摩耶)
+Chihuahua(吉娃娃)
+teddy(泰迪)
+
+yapper(喋喋不休)
