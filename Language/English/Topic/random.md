@@ -40,3 +40,10 @@ teddy(泰迪)
 yapper(喋喋不休)
 catch frisbee(接飞盘)
 walking the dog(遛狗)
+backyard(后庭,后院)
+
+
+
+
+
+
