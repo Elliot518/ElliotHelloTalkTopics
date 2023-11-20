@@ -15,3 +15,15 @@ What is your dream? Everyone got to have a dream.
     For example: get a decent job, earn money, they bought a housem pay off mortgage  of your house, maybe for it'll take you decades to pay off your debt.
 
 
+&nbsp;
+
+### Dogs
+
+A long-haired woman and her child walked to a dog on the roadside. <br>
+The woman squatted down and touched the pet dog, but unexpectedly,
+The dog suddenly knocked the woman down and bit her face for several seconds. <br>
+The woman screamed for help after falling to the ground. <br>
+
+Pets are cute, especially puppies or kittens.
+If you are bitten /ˈbɪtn/ by a dog or scratched by a cat, you got go to the hospital to get a rabies/ˈreɪbiːz/ vaccine.
+
