@@ -38,3 +38,4 @@ Chihuahua(吉娃娃)
 teddy(泰迪)
 
 yapper(喋喋不休)
+catch frisbee(接飞盘)
