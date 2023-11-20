@@ -35,6 +35,8 @@ pathetic 可怜的 <br>
 solitary
 solidarity <br>
 
-multiplanetary 多行星的
+multiplanetary 多行星的 <br>
 
-moat 护城河
+moat 护城河 <br>
+
+dusk 黄昏
