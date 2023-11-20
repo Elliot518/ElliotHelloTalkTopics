@@ -19,7 +19,7 @@ What is your dream? Everyone got to have a dream.
 
 ### Dogs
 
-A long-haired woman and her child walked to a dog on the roadside. <br>
+A woman and her child walked to a dog on the roadside. <br>
 The woman squatted down and touched the pet dog, but unexpectedly,
 The dog suddenly knocked the woman down and bit her face for several seconds. <br>
 The woman screamed for help after falling to the ground. <br>
