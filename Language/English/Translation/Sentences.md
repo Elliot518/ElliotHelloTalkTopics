@@ -94,4 +94,5 @@ put someone on the pedestal /ˈpedɪst(ə)l/
 
 学历贬值 devaluation of academic qualifications  <br>
 
-
+闭环 closed loop <br>
+闭环思维 closed loop thinking <br>

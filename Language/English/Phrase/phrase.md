@@ -17,3 +17,5 @@ bark up the wrong tree 误会：指误解某人或事物 <br>
 (to be wrong about the reason for something or the way to achieve something) <br>
 eg: Unfortunately, I barked up the wrong tree when I counted on Jessie. It turned out that she had also been planning to get rid of me. <br>
 
+catch sb. off guard 趁人不备，让人猝不及防 <br>
+
