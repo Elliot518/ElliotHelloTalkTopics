@@ -96,3 +96,6 @@ put someone on the pedestal /ˈpedɪst(ə)l/
 
 闭环 closed loop <br>
 闭环思维 closed loop thinking <br>
+
+隔音不好 sound isolation is not good <br>
+
