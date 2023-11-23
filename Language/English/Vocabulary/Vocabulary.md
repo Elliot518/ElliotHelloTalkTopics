@@ -40,3 +40,50 @@ multiplanetary 多行星的 <br>
 moat 护城河 <br>
 
 dusk 黄昏
+
+broccoli 西蓝花 <br>
+
+meatballs made of DouFu  <br>
+
+mashed potato 土豆泥 <br>
+
+cabbage <br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
