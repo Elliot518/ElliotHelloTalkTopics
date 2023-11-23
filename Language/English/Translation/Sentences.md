@@ -99,3 +99,6 @@ put someone on the pedestal /ˈpedɪst(ə)l/
 
 隔音不好 sound isolation is not good <br>
 
+油门踩到底 Press the accelerator to the bottom <br>
+eg: Even if I pressed the accelerator to the bottom, the car still crawls like a snail. 即使我把油门踩到底，车子还是像蜗牛一样爬行。
+
