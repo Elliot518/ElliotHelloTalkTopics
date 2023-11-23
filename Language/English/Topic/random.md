@@ -43,7 +43,27 @@ walking the dog(遛狗)
 backyard(后庭,后院)
 
 
+&nbsp;
 
 
+### Manage up
+> How to manage your immediate leaders or higher-level leaders upwards
+
+
+> "managing up" is a term used in the workplace that refers to the practice of consciously and proactively working to build a positive and effective relationship with one's superiors, managers, or leaders. It involves taking actions to understand their priorities, communication styles, and preferences, and then adapting your approach to align with those factors. The goal of managing up is to contribute to a more productive and harmonious working relationship and to enhance overall team and organizational success.
+
+Here are some common practices associated with managing up:
+
+- Understanding Leadership Style: Pay attention to your manager's communication and leadership style. Some managers prefer regular updates, while others may prefer concise summaries. Understanding these preferences can help you tailor your communication.
+
+- Anticipating Needs: Proactively identify and address the needs and priorities of your manager. This could involve providing solutions to potential issues before they arise or taking on tasks that alleviate their workload.
+
+- Effective Communication: Communicate clearly, concisely, and in a manner that resonates with your manager. Be sure to update them on your progress, share relevant information, and seek feedback.
+
+- Aligning Goals: Understand the overarching goals and objectives of your team and organization, and ensure that your work aligns with these broader objectives. This helps demonstrate your commitment to the overall success of the team.
+
+- Building Trust: Establishing trust is crucial. Deliver on your commitments, be reliable, and demonstrate competence in your role. This builds confidence in your abilities and fosters a positive working relationship.
+
+Remember that managing up is not about manipulation but rather about effective communication, collaboration, and understanding. It can contribute to a more positive and productive work environment for both you and your manager.
 
 
