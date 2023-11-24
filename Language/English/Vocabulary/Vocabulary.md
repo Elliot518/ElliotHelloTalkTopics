@@ -56,9 +56,11 @@ fortnightly 每两周的，两周一次的 <br>
 
 bimonthly 两月一次的 <br>
 
+constructive criticism 建设性批评
 
+Constructive criticism is a form of feedback or evaluation that is intended to provide helpful insights, suggestions, and guidance for improvement. The key aspect of constructive criticism is that it is offered in a positive and supportive manner, with the goal of helping the individual or group being critiqued to grow, develop, and enhance their skills, performance, or work.
 
-
+eg: We welcome your constructive criticism—it is the best way we know of improving and our service.
 
 
 
