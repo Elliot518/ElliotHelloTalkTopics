@@ -9,3 +9,6 @@ have a short fuse 脾气暴躁 <br>
 
 fingers crossed 祝一切顺利 <br>
 
+My word is my bond 我说话算话 <br>
+
+

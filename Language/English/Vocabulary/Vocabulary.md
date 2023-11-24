@@ -49,12 +49,12 @@ mashed potato 土豆泥 <br>
 
 cabbage <br>
 
+porridge oats 燕麦粥 <br>
 
 
+fortnightly 每两周的，两周一次的 <br>
 
-
-
-
+bimonthly 两月一次的 <br>
 
 
 
