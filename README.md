@@ -20,6 +20,8 @@ Here are the historic sessions:
 | [14. How do you learn a new language](#Topic14) | Nov. 10th, 2023 |
 | [15. Memories from student days](#Topic15) | Nov. 14th, 2023 |
 | [16. Explore Space](#Topic16) | Nov. 17th, 2023 |
+| [17. Talk About Self-Learning](#Topic17) | Nov. 21th, 2023 |
+| [18. Dare to argue with your boss?](#Topic18) | Nov. 24th, 2023 |
 
 <hr>
 
@@ -376,8 +378,58 @@ Humanity never stop exploring sd we know one day the resources on the earth will
     So civilization around has been a flash of pan, annihilation of all life on earth is certainty.
     If we are able to go out and explore the other planets
 
+<hr>
 
+### Topic17
 
+### Talk About Self-Learning
 
+> Most of us, or at least our parents, can recall how education used to be in the 20th century, before technology made acquiring information super easy. We learned in institutionalized settings: the classroom, the laboratory, the workshop, and out in the field. We might have learned additional skills at trade schools or night classes. If you wanted to learn something, it required a lot of effort.
+The 21st century has changed all that, thank to the booming of the internet, it's very easy for you to get at the knowledge you want.
+So, how do you teach yourself the knowledge you are interested in.
+What's your Self-Learning methodology?
 
+- Summary
 
+<hr>
+
+### Topic18
+
+### Dare to argue with your boss?
+
+> Are there many times your boss gives you a lot of unreasonable work and you feel a lot of pressure, but you don’t dare to resist?
+Do you dare to argue with your boss?
+Have you ever heard about the term "managing up"?
+Maybe sometimes you should adopt a positive and proactive attitude to communicate with your boss or leader instead of waiting for the moment the volcano erupts?
+
+- Summary
+
+    Topic Summary: "Do you dare to argue with your boss"
+
+    In the fast-paced world of work, dealing with pressure is inevitable. But, what if the pressure emanates from your boss? The question arises – do you dare to argue with your boss? Here's a guide on how to handle such situations with finesse and professionalism.
+
+    1. Taking Initiative: When faced with work pressure, taking initiative is key. Don't wait for problems to escalate; address them promptly and proactively.
+
+    2. Staying Calm: Maintaining composure is crucial. Take a step back, breathe, and approach the situation with a clear mind. Emotional intelligence is your ally in navigating workplace challenges.
+
+    3. Building Relationships: Making friends with your boss is not just about socializing; it's about understanding their perspective. A positive relationship can create a conducive environment for open communication.
+
+    4. Professionalism Amid Frustration: It's natural to feel frustrated, but maintaining professionalism is non-negotiable. Keep emotions in check, and express your concerns in a composed manner.
+
+    5. Confirm Your Ground: Before engaging in a disagreement, ensure you are well-informed and confident in your stance. Being 90% sure of your argument strengthens your position.
+
+    6. Reading Body Language: A skillful communicator reads not just words but also body language. Understand your boss's mental state and mood by observing cues, helping you gauge the right time to engage.
+
+    7. Picking the Right Time and Place: Timing is everything. Choose a suitable time and place for discussions, ensuring privacy and minimal disruptions.
+
+    8. Fairness in Relationships: The relationship between employees and employers should be based on fairness. Eliminate bias, build mutual understanding, and work towards shared goals.
+
+    9. Positivity Over Negativity: Approach conflicts with a positive mindset. Focus on solutions rather than dwelling on the problem, fostering a constructive atmosphere.
+
+    10. Eliminating Misunderstandings: Misunderstandings can be detrimental. Be patient, actively listen, and seek clarification to avoid misinterpretations.
+
+    11. Providing Solutions: Instead of just highlighting problems, be solution-oriented. Proposing viable solutions demonstrates your commitment to the team's success.
+
+    In conclusion, daring to argue with your boss is not about confrontation; it's about effective communication, understanding, and collaboration. By following these guidelines, you can navigate workplace challenges while maintaining a positive and productive professional environment.
+
+    
