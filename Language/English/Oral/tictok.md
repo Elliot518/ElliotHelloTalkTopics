@@ -22,3 +22,8 @@ take compensation leave 调休 <br>
 tasty yummy 好吃 <br>
 
 
+let me get this straight 让我把话说清楚 <br>
+
+
+cognitive /ˈkɑːɡnətɪv/ dissonance /ˈdɪsənəns/ 认知失调 <br>
+
