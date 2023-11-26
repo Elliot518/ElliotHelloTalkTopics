@@ -62,6 +62,8 @@ Constructive criticism is a form of feedback or evaluation that is intended to p
 
 eg: We welcome your constructive criticism—it is the best way we know of improving and our service.
 
+people person 善于交际的人 <br>
+
 
 
 
