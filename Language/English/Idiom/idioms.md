@@ -83,7 +83,10 @@ eg: Wearing that cheap dress in public made me feel like two cents.
 ### Live within one’s means(量入为出)
 > to spend less or only as much money as one is earning.
 
+<hr>
 
+## Monday morning quarterback 
+### 马后炮，事后诸葛亮
 
-
+Monday morning quarterback 字面意思是星期一早上的四分位，指在事后才指手画脚的人。源自美国职业橄榄球，四分位指挥比赛，而比赛往往在周末举行。
 

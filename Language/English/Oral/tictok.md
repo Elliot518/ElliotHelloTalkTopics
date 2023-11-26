@@ -27,3 +27,8 @@ let me get this straight 让我把话说清楚 <br>
 
 cognitive /ˈkɑːɡnətɪv/ dissonance /ˈdɪsənəns/ 认知失调 <br>
 
+You're out of line 你太过分了 <br>
+
+Don't overdo it 别过分哦 <br>
+
+
