@@ -17,3 +17,9 @@
 
 ### 6. Should students consult their parents about their majors and careers?
 
+### 7. Describe a foreign country and culture that you want to know more about
+
+### 8. Describe your country and culture
+
+
+### 9. Which city do you live in? Describe the city you live in
