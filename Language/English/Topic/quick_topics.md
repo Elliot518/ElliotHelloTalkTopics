@@ -23,3 +23,7 @@
 
 
 ### 9. Which city do you live in? Describe the city you live in
+
+
+### 10. Do you have childhood friend? Can you talk about him or her?
+

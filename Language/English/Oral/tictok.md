@@ -32,3 +32,7 @@ You're out of line 你太过分了 <br>
 Don't overdo it 别过分哦 <br>
 
 
+Don't get cocky 别高兴太早 <br>
+
+
+
