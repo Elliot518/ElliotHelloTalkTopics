@@ -105,4 +105,10 @@ eg: Even if I pressed the accelerator to the bottom, the car still crawls like a
 给你面子 save face for you / give you face <br>
 eg: I'm saving face for you by not mentioning that mistake in front of everyone. (我为了给你面子，在大家面前没有提到那个错误。) <br>
 She gave him face by not pointing out his error during the meeting.
-(她给了他面子，在会议中没有指出他的错误。)
+(她给了他面子，在会议中没有指出他的错误。) <br>
+
+你只是他们全局战略中的一枚棋子而已，别太高看你自己了! <br>
+You're just a pawn in their overall strategy, don't flatter yourself too much. <br>
+You're just a piece in their overall strategy, don't overestimate yourself. <br>
+You're just a piece in their overall strategy, so don't think too highly of yourself. <br>
+
