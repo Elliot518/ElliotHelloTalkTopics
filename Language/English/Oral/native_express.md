@@ -42,8 +42,20 @@ It's gotta be done right.
 这事必须做对。
 ```
 
+<hr>
 
 
+### stealing your spotlight/hogging all the attention
+>今天好像不是你的日子啊，某些人的风头盖过你了!
+
+```
+Looks like today isn't your day; someone else seems to be stealing your spotlight.
+
+"Today's not really your jam, huh? Someone else is hogging all the attention."
+
+这里用 "jam" 表示某人的日子或境遇，而 "hogging all the attention" 则表示有人正在独占所有的关注。
 
 
-
+Seems like today's not really going your way; someone else is grabbing all the attention.
+Looks like today isn't your day, someone else is hogging all the attention.
+```
