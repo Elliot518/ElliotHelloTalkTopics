@@ -34,5 +34,8 @@ Don't overdo it 别过分哦 <br>
 
 Don't get cocky 别高兴太早 <br>
 
+I don't give s shit(damn) 我才不管呢 <br>
 
+be as resilient as possible 尽可能的有韧性 <br>
 
+dillydally 磨磨蹭蹭

@@ -102,3 +102,7 @@ put someone on the pedestal /ˈpedɪst(ə)l/
 油门踩到底 Press the accelerator to the bottom <br>
 eg: Even if I pressed the accelerator to the bottom, the car still crawls like a snail. 即使我把油门踩到底，车子还是像蜗牛一样爬行。
 
+给你面子 save face for you / give you face <br>
+eg: I'm saving face for you by not mentioning that mistake in front of everyone. (我为了给你面子，在大家面前没有提到那个错误。) <br>
+She gave him face by not pointing out his error during the meeting.
+(她给了他面子，在会议中没有指出他的错误。)
