@@ -72,7 +72,7 @@ hunger marketing(饥饿营销) <br>
 > Hunger marketing is a strategy where the demand for a product is increased by deliberately limiting its availability. It's a tactic commonly used to create excitement and anticipation among consumers.
 
 
-
+process of elimination (排除法)
 
 
 
