@@ -105,3 +105,8 @@ throw (someone) a curve (ball)/curveball
 eg: He threw his boss a curve when he told her that he was resigning. <br>
 I apologize for throwing a curve, but I think we need to discuss this. <br>
 
+<hr>
+
+## A single spark can start a prairie/ˈpreri/ fire
+
+> 星星之火，可以燎原
