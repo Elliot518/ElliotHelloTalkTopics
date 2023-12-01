@@ -19,3 +19,6 @@ eg: Unfortunately, I barked up the wrong tree when I counted on Jessie. It turne
 
 catch sb. off guard 趁人不备，让人猝不及防 <br>
 
+drop the act 别装了 <br>
+stop pretending 
+

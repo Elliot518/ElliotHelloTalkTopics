@@ -97,3 +97,11 @@ Monday morning quarterback 字面意思是星期一早上的四分位，指在�
 
 eg: Talking to a brick wall, just wasting my breath.
 
+<hr>
+
+throw (someone) a curve (ball)/curveball
+> to surprise someone with something that is difficult or unpleasant to deal with
+
+eg: He threw his boss a curve when he told her that he was resigning. <br>
+I apologize for throwing a curve, but I think we need to discuss this. <br>
+
