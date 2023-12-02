@@ -38,4 +38,6 @@ I don't give s shit(damn) 我才不管呢 <br>
 
 be as resilient as possible 尽可能的有韧性 <br>
 
-dillydally 磨磨蹭蹭
+dillydally 磨磨蹭蹭 <br>
+
+get over yourself 别自以为是了
