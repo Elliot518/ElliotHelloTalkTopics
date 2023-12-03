@@ -40,4 +40,45 @@ be as resilient as possible 尽可能的有韧性 <br>
 
 dillydally 磨磨蹭蹭 <br>
 
-get over yourself 别自以为是了
+get over yourself 别自以为是了 <br>
+
+
+Excuse me, check please 你好，买单 <br>
+
+Life needs a sense of ritual /ˈrɪtʃuəl/
+生活需要仪式感 <br>
+
+My hands are tied 我无能为力 <br>
+
+ambivalent /æmˈbɪvələnt/ (情感或态度)矛盾的,喜忧参半
+
+eg: 
+He has an ambivalent attitude towards her.  
+他对她怀着矛盾的心情。 <br>
+
+She remained ambivalent about her marriage.
+她对她的婚姻保持暧昧的态度。 <br>
+
+She seems to feel ambivalent about her new job.  
+她似乎对新工作忧喜参半。 <br>
+
+pervert /pərˈvɜːrt/ <br>
+to change something so that it is not what it was or should be, or to influence someone in a harmful way; <br>
+v. 使走样，败坏；腐蚀，使堕落；使性欲反常，使性变态；歪曲，曲解; 
+eg: 
+Some people believe that TikTok can pervert the minds of children. 
+有些人认为，抖音腐蚀儿童的心灵。 <br>
+
+n. 性变态者 <br>
+a person whose sexual behaviour is considered strange and unpleasant by most people <br>
+
+eg: He's a freaking pervert.
+他是个变态。
+
+You asked for it 你自找的 <br>
+
+(like) fish out of water 浑身不自在 <br>
+
+You are incorrigible /ɪnˈkɔːrɪdʒəb(ə)l/ 你真是无可救药
+An incorrigible person or incorrigible behaviour is bad and impossible to change or improve <br>
+

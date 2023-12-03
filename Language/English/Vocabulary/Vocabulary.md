@@ -77,13 +77,15 @@ process of elimination (排除法) <br>
 
 devour the food (狼吞虎咽地吃) <br>
 
-Keep going/Come on 加油
+Keep going/Come on 加油 <br>
 
+chronological /ˌkrɒn.əˈlɑː.dʒɪ.kəl/ <br>
+> following the order in which a series of events happened
 
+eg: The facts should be presented in chronological order.  
+这些事实应按时间先后顺序陈述。
 
-
-
-
+chrono 编年史
 
 
 
