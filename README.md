@@ -22,6 +22,8 @@ Here are the historic sessions:
 | [16. Explore Space](#Topic16) | Nov. 17th, 2023 |
 | [17. Talk About Self-Learning](#Topic17) | Nov. 21th, 2023 |
 | [18. Dare to argue with your boss?](#Topic18) | Nov. 24th, 2023 |
+| [19. Happy work with less money or opposite](#Topic19) | Nov. 28th, 2023 |
+| [20. Unleash your confidence](#Topic20) | Dec. 1st, 2023 |
 
 <hr>
 
@@ -432,4 +434,56 @@ Maybe sometimes you should adopt a positive and proactive attitude to communicat
 
     In conclusion, daring to argue with your boss is not about confrontation; it's about effective communication, understanding, and collaboration. By following these guidelines, you can navigate workplace challenges while maintaining a positive and productive professional environment.
 
+<hr>
+
+### Topic19
+
+### Happy work with less money or opposite
+
+> Modern people have a lot of work pressure.
+Although some people earn high salary, they are under great pressure and are not happy at work. On the contrary, some people earn very little salary but are very happy at work.
+What do you think contributes more to job satisfaction: a high salary or a low-stress work?
+How do you think individuals can find a balance between a high-paying job and job satisfaction?
+Is it possible to have both a high salary and a low-stress work in today's competitive job market?
+
+- Summary
+
+    I want to delve into a dilemma that many of us face: the choice between a job that pays well but is mentally and physically taxing, versus a job that brings happiness but may come with a thinner wallet.
+
+    We all know that pressure is an unwelcome companion, and it comes in various forms, both mental and physical. The question we grapple with is how to strike that delicate balance between chasing success and maintaining our well-being.
+
+    In our quest for the ideal job, we often overlook the importance of spare time and the pursuit of hobbies. It's in these moments of leisure that we find solace, recharge our spirits, and discover the essence of life beyond the workplace. Achieving a work life balance is not just a buzzword; it's a fundamental human need.
+
+    Desire is a powerful force within us, and it's crucial to acknowledge that money plays a pivotal role in fulfilling our basic needs. However, there's an inspiring example of someone who opted for a job with a higher salary and promotion, only to find themselves drowning in a sea of stress. This vividly illustrates the age-old adage: money can't buy happiness.
+
+    As our cash flow sustains our basic life, it's essential to consider the repercussions of choosing a higher salary. Money, as we all know, has the potential to turn people into the very thing they may despise greedy and selfish. The allure of a fatter paycheck might blind us to the toll it takes on our character.
+
+    But let's not forget, some might opt for a higher salary out of necessity, driven by high consumption needs, whether it's frequent travel or a penchant for going abroad. The clash between financial goals and personal happiness is a real struggle many face.
+
+    Career development is undoubtedly a critical factor in decision-making. Some argue for a high starting point, a leap forward that others might take years to reach. However, in the pursuit of success, we must not neglect the importance of relaxation, for sometimes, to move forward, we need to take a step back and allow our minds and bodies to recharge.
+
+    In conclusion, the decision between a high-paying job and a fulfilling one is never easy. It's a nuanced interplay of pressures, desires, and the delicate dance of work and life. As we navigate this complex terrain, let us not forget that true success encompasses not just our professional achievements but also our well-being and the happiness we find in the journey.
+
+- Vocabulary
+
+    - delve /delv/ into something
+        > to search in order to find a thing or information
+
+    - dilemma /dɪˈlem.ə/
+        > a situation in which a difficult choice has to be made between two different things you could do
+
+
+    - grapple /ˈɡræpl/
+        > to fight, especially in order to win something
     
+<hr>
+
+### Topic20
+
+### Unleash your confidence
+
+> Are you an unconfident person?
+For example, you are not confident in your appearance, not confident in your learning ability, and not confident in your working ability.
+You dare not communicate with others, have no confidence in key exams, and dare not take on key tasks.
+There're too many you dare not.
+Do you have the puzzle confidence is so far away from you? How to become a confident person?
