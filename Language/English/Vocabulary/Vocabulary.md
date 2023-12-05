@@ -87,7 +87,7 @@ eg: The facts should be presented in chronological order.
 
 chrono 编年史
 
-
+gemstone 宝石
 
 
 
