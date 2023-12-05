@@ -20,5 +20,5 @@ We can talk whenever you're free, no problem with the timing. <br>
 
 <hr>
 
-There's a lot of room for improvement in your pronunciation. Pay attention to the rhythm of your speech, add some pauses, and work on smoother transitions between words.
+There's a lot of room for improvement in your pronunciation. Pay attention to the rhythm /ˈrɪðəm/ of your speech, add some pauses, and work on smoother transitions between words.
 
