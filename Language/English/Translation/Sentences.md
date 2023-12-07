@@ -112,3 +112,11 @@ You're just a pawn in their overall strategy, don't flatter yourself too much. <
 You're just a piece in their overall strategy, don't overestimate yourself. <br>
 You're just a piece in their overall strategy, so don't think too highly of yourself. <br>
 
+
+竞争太激烈了 <br>
+The competition is too fierce /fɪrs/ <br>
+The competition is cutthroat, man! <br>
+The competition is intense, like crazy intense. <br>
+The competition is really heating up, it's no joke. <br>
+The competition is off the charts, seriously. <br>
+The competition is downright(彻头彻尾的,十足的) brutal /ˈbruːt(ə)l/, no kidding. 
