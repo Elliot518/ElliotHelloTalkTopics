@@ -92,5 +92,6 @@ gemstone 宝石
 health preservation 养生
 
 
-
-
+leverage <br>
+to use something that you already have in order to achieve something new or better <br>
+eg: We can gain a market advantage by leveraging our network of partners.
