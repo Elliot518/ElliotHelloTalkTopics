@@ -120,3 +120,8 @@ The competition is intense, like crazy intense. <br>
 The competition is really heating up, it's no joke. <br>
 The competition is off the charts, seriously. <br>
 The competition is downright(彻头彻尾的,十足的) brutal /ˈbruːt(ə)l/, no kidding. 
+
+
+an integral part of something 是什么不可分割的一部分 <br>
+(eg: Taiwan is an integral part of China) <br>
+
