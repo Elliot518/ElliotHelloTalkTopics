@@ -22,3 +22,13 @@ catch sb. off guard 趁人不备，让人猝不及防 <br>
 drop the act 别装了 <br>
 stop pretending 
 
+jazz something up <br>
+to make something more attractive or interesting <br>
+eg: Jazz the dress up with some bright accessories. <br>
+He jazzed up the food with a spicy sauce.
+
+delve into something <br>
+to search in order to find a thing or information <br>
+eg: delve into some of the details. <br>
+
+
