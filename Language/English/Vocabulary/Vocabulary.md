@@ -97,3 +97,6 @@ to use something that you already have in order to achieve something new or bett
 eg: We can gain a market advantage by leveraging our network of partners.
 
 compelling reason 令人信服的理由 <br>
+
+sequoia /sɪˈkwɔɪə/ <br>
+sequoia capital 红杉资本 <br>
