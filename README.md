@@ -504,6 +504,36 @@ Describe the culture of another country you would like to learn about and why yo
 
 - Summary
 
+    Specifically, we'll delve into the magnificent realms of Chinese, Indian, and Japanese cultures, each a treasure trove of traditions, values, and practices.
+
+    Let's start our cultural exploration in the heart of China, where the ancient art of Chinese Kung Fu, the wisdom of Confucius, and the exquisite flavors of diverse cuisines paint a vibrant picture. The martial prowess of Chinese Kung Fu reflects the discipline and dedication ingrained in the culture. Confucius, with his profound teachings on respect for elders and love for the young, embodies the essence of Chinese values - a culture that values humility and hard work.
+
+    And let's talk about Chinese cuisine, a culinary marvel that boasts eight major regional cuisines, each a symphony of flavors. From the fiery spices of Sichuan to the delicate dim sum of Cantonese, Chinese cuisine mirrors the vastness and diversity of the nation.
+
+    Now, let's shift our gaze to India, a land that proudly embraces unity in diversity. The kaleidoscope of colorful festivals, with Diwali shining the brightest, exemplifies the joy and vibrancy embedded in Indian culture. Diwali, the festival of lights, is a celebration that transcends boundaries, symbolizing the triumph of light over darkness.
+
+    But what truly defines Indian culture is its hospitality and warmth. The tradition of "Atithi Devo Bhava," which means "The guest is God," reflects the ingrained value of welcoming others with open arms.
+
+    Finally, let's journey to Japan, a land where bowing is not just a gesture; it's a profound expression of humility ingrained in the spirit of the samurai. Japanese culture is a delicate balance of tradition and modernity, where respect for others is an art form.
+
+    In this brief talk on culture, we've scratched the surface of the vast landscapes of Chinese, Indian, and Japanese traditions. Each is a unique masterpiece, a testament to the beauty that emerges when people embrace their roots while reaching for the stars. As we celebrate our differences, let's remember that it's through understanding and appreciating diverse cultures that we weave the rich tapestry of our shared humanity. 
+
+- Vocabulary
+
+    - treasure trove (宝藏)
+        > a place that is full of something good
+
+    - exquisite /ɪkˈskwɪz.ɪt/ (精致的)
+        > very beautiful and delicate
+
+    - vibrant /ˈvaɪ.brənt/ (充满生机和活力的)
+        > energetic, exciting, and full of enthusiasm /ɪnˈθuː.zi.æz.əm/ (热情)
+
+    - martial /ˈmɑːr.ʃəl/
+        > relating to soldiers, war, or life in the armed forces
+
+    - prowess /ˈpraʊ.es/
+        > great ability or skill
 <hr>
 
 ### Topic22
