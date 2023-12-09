@@ -24,6 +24,8 @@ Here are the historic sessions:
 | [18. Dare to argue with your boss?](#Topic18) | Nov. 24th, 2023 |
 | [19. Happy work with less money or opposite](#Topic19) | Nov. 28th, 2023 |
 | [20. Unleash your confidence](#Topic20) | Dec. 1st, 2023 |
+| [21. A brief talk on culture](#Topic21) | Dec. 5th, 2023 |
+| [22. Great minds mature late](#Topic22) | Dec. 8th, 2023 |
 
 <hr>
 
@@ -487,3 +489,64 @@ For example, you are not confident in your appearance, not confident in your lea
 You dare not communicate with others, have no confidence in key exams, and dare not take on key tasks.
 There're too many you dare not.
 Do you have the puzzle confidence is so far away from you? How to become a confident person?
+
+- Summary
+
+
+<hr>
+
+### Topic21
+
+### A brief talk on culture
+
+> Describe the key points of your country's culture. 
+Describe the culture of another country you would like to learn about and why you want to learn about it. What do you think are the big cultural differences between this country and yours?
+
+- Summary
+
+<hr>
+
+### Topic22
+
+### Great minds mature late
+
+> Great minds mature late is an idiom refers to some people achieve outstanding achievements when they are quite old, we can also call them late bloomer.
+Describe a famous person in history you know who was a late bloomer,
+tell us some of his experience, and what inspiration can we get from his experience?
+
+- Summary
+
+    "Great minds mature late." It's not just an idiom, it's a profound insight into the intricate dance of life, experience, and the ever-evolving journey of self-discovery.
+
+    You've all heard the saying, "late bloomer," right? Well, let me tell you, there's more to it than meets the eye. We live in a world that often celebrates the quick and the flashy, but there's a quiet force at work, a force that defies the norms and takes its time to unfold great minds mature late.
+
+    Picture a sequoia, towering majestically over the forest, its growth slow and deliberate. It stands as a testament to the power of patience and the beauty of a journey that embraces the passage of time. So, too, do great minds. Maturity isn't a race; it's a journey, and for some, the brilliance of their minds takes time to fully blossom.
+
+    Now, let's talk about maturity levels and how we react to the various situations life throws our way. Life is a relentless teacher, and every challenge, every setback, is an opportunity for growth. A late bloomer doesn't wither under pressure; instead, they draw strength from the struggle, developing a maturity that can weather any storm.
+
+    Think about the mental development that occurs over the years. It's not just about accumulating knowledge; it's about understanding the intricacies of the human experience. Our great minds, like a fine wine, improve with age. They process life's lessons, distilling them into wisdom that stands the test of time.
+
+
+- Vocabulary
+
+    - intricate /ˈɪn.trə.kət/ (错综复杂的)
+        > having a lot of small parts that are arranged in a complicated or delicate way
+
+    - ever-evolving /ɪˈvɒlvɪŋ/ (不断发展的)
+        > continuously developing
+
+    - flashy
+        > looking too bright, big, and expensive in a way that is intended to get attention and admiration
+
+    - sequoia  /sɪˈkwɔɪ.ə/
+        > a large Californian evergreen tree that can reach a height of more than 90 metres
+
+    - testament /ˈtes·tə·mənt/
+        > proof of something
+
+
+    - relentless /rɪˈlentləs/
+        > continuing in a severe or extreme way
+
+    - wither
+        > to become weak and dry and decay
