@@ -551,6 +551,9 @@ tell us some of his experience, and what inspiration can we get from his experie
     - norm /nɔːrm/
         > an accepted standard or a way of behaving or doing things that most people agree with
     
+    - revere /rɪˈvɪr/
+        > to very much respect and admire someone or something
+
     - sequoia  /sɪˈkwɔɪ.ə/
         > a large Californian evergreen tree that can reach a height of more than 90 metres
 
