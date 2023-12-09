@@ -544,6 +544,13 @@ tell us some of his experience, and what inspiration can we get from his experie
     - flashy
         > looking too bright, big, and expensive in a way that is intended to get attention and admiration
 
+
+    - defy  /dɪˈfaɪ/
+        >to refuse to obey a person, decision, law, situation, etc.
+
+    - norm /nɔːrm/
+        > an accepted standard or a way of behaving or doing things that most people agree with
+    
     - sequoia  /sɪˈkwɔɪ.ə/
         > a large Californian evergreen tree that can reach a height of more than 90 metres
 
