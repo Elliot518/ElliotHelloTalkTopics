@@ -520,6 +520,12 @@ tell us some of his experience, and what inspiration can we get from his experie
 
     You've all heard the saying, "late bloomer," right? Well, let me tell you, there's more to it than meets the eye. We live in a world that often celebrates the quick and the flashy, but there's a quiet force at work, a force that defies the norms and takes its time to unfold great minds mature late.
 
+    Looking back at world history, there have been many late bloomers who became famous:
+    - Abraham Lincoln, the revered American president, preserved the Union and ended slavery with grace.
+    - Charlie Munger, Warren Buffett's partner, turns setbacks into success through financial wisdom.
+    - Albert Einstein, a visionary physicist, reshaped cosmic understanding with groundbreaking theories.
+    - Morgan Freeman, an iconic voice of wisdom, reflects enduring maturity in a storied film career.
+
     Picture a sequoia, towering majestically over the forest, its growth slow and deliberate. It stands as a testament to the power of patience and the beauty of a journey that embraces the passage of time. So, too, do great minds. Maturity isn't a race; it's a journey, and for some, the brilliance of their minds takes time to fully blossom.
 
     Now, let's talk about maturity levels and how we react to the various situations life throws our way. Life is a relentless teacher, and every challenge, every setback, is an opportunity for growth. A late bloomer doesn't wither under pressure; instead, they draw strength from the struggle, developing a maturity that can weather any storm.
@@ -550,3 +556,6 @@ tell us some of his experience, and what inspiration can we get from his experie
 
     - wither
         > to become weak and dry and decay
+
+    - distill /dɪˈstɪl/ (提取,蒸馏)
+        > to make a liquid stronger or purer by heating it until it changes to a gas and then cooling it so that it changes back into a liquid
