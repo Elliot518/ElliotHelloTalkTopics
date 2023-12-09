@@ -534,6 +534,16 @@ Describe the culture of another country you would like to learn about and why yo
 
     - prowess /ˈpraʊ.es/
         > great ability or skill
+
+    - dedication /ˌded.əˈkeɪ.ʃən/ (奉献)
+        > the willingness to give a lot of time and energy to something because it is important
+
+    - ingrained /ɪnˈɡreɪnd/ (根深蒂固的)
+        > so firmly held that they are not likely to change
+    
+    - embody (体现)
+        > to represent a quality or an idea exactly
+
 <hr>
 
 ### Topic22
