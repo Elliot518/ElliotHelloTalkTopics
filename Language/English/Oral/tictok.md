@@ -82,3 +82,6 @@ You asked for it 你自找的 <br>
 You are incorrigible /ɪnˈkɔːrɪdʒəb(ə)l/ 你真是无可救药
 An incorrigible person or incorrigible behaviour is bad and impossible to change or improve <br>
 
+give me some credit <br>
+make me look good <br>
+给我点面子
