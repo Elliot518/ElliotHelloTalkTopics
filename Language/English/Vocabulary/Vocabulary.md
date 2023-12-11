@@ -100,3 +100,9 @@ compelling reason 令人信服的理由 <br>
 
 sequoia /sɪˈkwɔɪə/ <br>
 sequoia capital 红杉资本 <br>
+
+
+serendipity /ˌserənˈdɪpəti/ (机缘巧合) <br>
+the fact of finding interesting or valuable things by chance <br>
+eg: There's an element of serendipity <br>
+Serendipity brought us together <br>
