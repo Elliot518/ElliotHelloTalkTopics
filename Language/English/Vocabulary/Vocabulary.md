@@ -106,3 +106,5 @@ serendipity /ˌserənˈdɪpəti/ (机缘巧合) <br>
 the fact of finding interesting or valuable things by chance <br>
 eg: There's an element of serendipity <br>
 Serendipity brought us together <br>
+
+backseat driver 多管闲事(指手画脚)的人 <br>
