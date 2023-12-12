@@ -32,3 +32,5 @@ to search in order to find a thing or information <br>
 eg: delve into some of the details. <br>
 
 
+put a dent in <br>
+对...造成负面影响 <br>
