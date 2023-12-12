@@ -122,3 +122,7 @@ I apologize for throwing a curve, but I think we need to discuss this. <br>
 > 欲速则不达
 
 
+> Tough times create strong men <br>
+> Strong men create easy times <br>
+> Easy times create weak men <br>
+> Weak men create tough times <br>

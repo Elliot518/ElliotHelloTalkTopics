@@ -112,3 +112,17 @@ backseat driver 多管闲事(指手画脚)的人 <br>
 motility 运动性 (eg: low motility) <br>
 
 
+unveil 揭开 <br>
+eg: unveil a new version of kindle next week
+
+syllable 音节 <br>
+stressed on the second syllable 重音放在第二个音节 <br>
+
+utter 完全彻底的 <br>
+That's complete and utter nonsense 那纯属一派胡言乱语 <br>
+
+
+hunch 直觉，预感 <br>
+I had a hunch (that) you'd be back 我有预感你会回来 <br>
+
+subliminal 潜意识的 <br>
