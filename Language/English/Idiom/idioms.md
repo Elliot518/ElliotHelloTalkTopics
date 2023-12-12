@@ -115,3 +115,10 @@ I apologize for throwing a curve, but I think we need to discuss this. <br>
 ## make a name for oneself
 出人头地, 扬名立万
 
+## Good things happen to good people
+> 好人有好报
+
+## Haste makes waste
+> 欲速则不达
+
+
