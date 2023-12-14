@@ -126,3 +126,6 @@ hunch 直觉，预感 <br>
 I had a hunch (that) you'd be back 我有预感你会回来 <br>
 
 subliminal 潜意识的 <br>
+
+old flame 老相好 <br>
+
