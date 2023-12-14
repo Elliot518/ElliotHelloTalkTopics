@@ -126,3 +126,5 @@ I apologize for throwing a curve, but I think we need to discuss this. <br>
 > Strong men create easy times <br>
 > Easy times create weak men <br>
 > Weak men create tough times <br>
+
+best of both worlds 两全其美  <br>

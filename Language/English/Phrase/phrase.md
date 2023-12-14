@@ -34,3 +34,5 @@ eg: delve into some of the details. <br>
 
 put a dent in <br>
 对...造成负面影响 <br>
+
+streets ahead 遥遥领先  <br>
