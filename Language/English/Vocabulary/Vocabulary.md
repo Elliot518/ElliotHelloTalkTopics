@@ -129,3 +129,10 @@ subliminal 潜意识的 <br>
 
 old flame 老相好 <br>
 
+chronic 长期的,慢性的 <br>
+(especially of a disease or something bad) continuing for a long time <br>
+
+procrastination /prəˌkræstɪˈneɪʃn/ 拖延症 <br>
+> Procrastination is the act of delaying or postponing tasks, often to a later time, despite knowing that it might lead to negative consequences. It involves avoiding doing a task that needs to be accomplished, and instead, choosing to do something else.
+
+foster 促进,培养 <br>

@@ -128,3 +128,22 @@ I apologize for throwing a curve, but I think we need to discuss this. <br>
 > Weak men create tough times <br>
 
 best of both worlds 两全其美  <br>
+
+better safe than sorry 有备无患  <br>
+
+get a foot in the door 迈出第一步，入行  <br>
+
+Look before you leap 三思而后行  <br>
+
+Seeing is believing 眼见为实  <br>
+
+Take things as they come 既来之，则安之  <br>
+
+Never too old to learn 活到老，学到老  <br>
+
+Everything comes to him(the person) who waits 功夫不负有心人  <br>
+
+
+
+
+
