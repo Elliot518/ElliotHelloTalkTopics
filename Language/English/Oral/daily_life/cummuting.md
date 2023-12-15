@@ -33,3 +33,17 @@ When you're on a bus in Shanghai, the next stop is announced by an automated voi
 First in Mandarin, then in English, and finally in Shanghainese. 
 As soon as one stop's announcement finishes, the next one is already on its way, so you're constantly surrounded by a mix of languages during the ride.
 
+<hr>
+
+### 请给帮助需要的乘客让个座(give your seat to someone who needs help)
+```
+Could you please give up your seat for a passenger who needs assistance?
+Would you mind giving your seat to someone who needs help?
+Could you do a favor and let someone who needs assistance sit here?
+```
+
+
+
+
+
+
