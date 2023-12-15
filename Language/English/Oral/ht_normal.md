@@ -22,3 +22,5 @@ We can talk whenever you're free, no problem with the timing. <br>
 
 There's a lot of room for improvement in your pronunciation. Pay attention to the rhythm /ˈrɪðəm/ of your speech, add some pauses, and work on smoother transitions between words.
 
+有一些人只是过客，有一些人成为了真正的粉丝，另外有一些则是铁粉 <br>
+Some people are just passing through, some become genuine fans, and there are others who turn into devoted super fans.  <br>
