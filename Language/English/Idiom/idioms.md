@@ -146,4 +146,5 @@ Everything comes to him(the person) who waits 功夫不负有心人  <br>
 
 
 
-
+A worker must first sharpen his tools. <br>
+工欲善其事，必先利其器。 <br>
