@@ -36,3 +36,5 @@ put a dent in <br>
 对...造成负面影响 <br>
 
 streets ahead 遥遥领先  <br>
+
+in a nutshell 简而言之 <br>
