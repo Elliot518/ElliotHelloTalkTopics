@@ -5,7 +5,7 @@
 ### 1. A-shares Investment
 
 
-> Investing in A-shares essentially boils down to finding microscopic and partial periodic certainty in the macroscopically chaotic and uncertain stock market. Therefore, the true essence of investing lies in seeking certainty within the specific phases of this overall chaos. Pursuing certainty is, in fact, the real essence of investing.
+> Investing in A-shares essentially boils down to finding microscopic partial periodic certainty in the macro chaotic and uncertain stock market. Therefore, the true essence of investing lies in seeking certainty within the specific phases of this overall chaos. Pursuing certainty is, in fact, the real essence of investing.
 
 > Many stock traders mistakenly consider themselves investors, but in reality, they are not. They're more like high consumers, akin to gamblers. Gambling is not an investment strategy; it's just a betting technique, and in the long run, consistent gambling leads to losses.
 <hr>
