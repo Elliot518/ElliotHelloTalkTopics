@@ -26,6 +26,7 @@ Here are the historic sessions:
 | [20. Unleash your confidence](#Topic20) | Dec. 1st, 2023 |
 | [21. A brief talk on culture](#Topic21) | Dec. 5th, 2023 |
 | [22. Great minds mature late](#Topic22) | Dec. 8th, 2023 |
+| [25. Procrastination](#Topic25) | Dec. 22nd, 2023 |
 
 <hr>
 
@@ -609,3 +610,27 @@ tell us some of his experience, and what inspiration can we get from his experie
 
     - distill /dɪˈstɪl/ (提取,蒸馏)
         > to make a liquid stronger or purer by heating it until it changes to a gas and then cooling it so that it changes back into a liquid
+
+
+<hr>
+
+### Topic25
+
+### Procrastination
+
+> Procrastination is the act of delaying or postponing tasks, often to a later time, despite knowing that it might lead to negative consequences. It involves avoiding doing a task that needs to be accomplished, and instead, choosing to do something else.
+
+1. Why do you think people procrastinate? <br>
+  Please explore both psychological and environmental factors that contribute to procrastination. <br>
+
+2. What strategies do you personally use to overcome procrastination? <br>
+  Please discuss practical tips and techniques that individuals find effective in managing procrastination. <br>
+
+3. Can procrastination have positive aspects, and if so, in what situations? (optional) <br>
+  Please explore scenarios where delaying a task might lead to better outcomes or creativity. <br>
+
+4. How does technology, especially social media, contribute to or alleviate procrastination? <br>
+  Please examine the role of technology in either fostering procrastination or providing tools to manage time effectively. <br>
+
+5. What advice would you give to someone struggling with chronic procrastination? <br>
+  Please discuss practical, actionable advice for individuals looking to overcome persistent procrastination habits. <br>
