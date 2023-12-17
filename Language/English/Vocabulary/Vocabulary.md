@@ -136,3 +136,6 @@ procrastination /prəˌkræstɪˈneɪʃn/ 拖延症 <br>
 > Procrastination is the act of delaying or postponing tasks, often to a later time, despite knowing that it might lead to negative consequences. It involves avoiding doing a task that needs to be accomplished, and instead, choosing to do something else.
 
 foster 促进,培养 <br>
+
+petty 小心眼 <br>
+complaining too much about things that are not important <br>
