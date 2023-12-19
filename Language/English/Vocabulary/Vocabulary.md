@@ -139,3 +139,11 @@ foster 促进,培养 <br>
 
 petty 小心眼 <br>
 complaining too much about things that are not important <br>
+
+lilliput 小人国 <br>
+at the mercy of 任由...摆布 <br>
+
+
+
+
+
