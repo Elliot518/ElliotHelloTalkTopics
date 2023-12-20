@@ -150,3 +150,6 @@ eg: If you use idioms when chatting with other people, you can make your languag
 
 intricacy /ˈɪn.trə.kə.si/ <br>
 complicated details <br>
+
+
+#号 hashtag <br>
