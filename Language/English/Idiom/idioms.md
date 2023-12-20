@@ -148,3 +148,7 @@ Everything comes to him(the person) who waits 功夫不负有心人  <br>
 
 A worker must first sharpen his tools. <br>
 工欲善其事，必先利其器。 <br>
+
+### double edge sword
+> I think using ChatGPT is like a double edge sword, on one hand it makes our English communication easy and pleasant, on the other hand, it makes us become lazy
+
