@@ -144,6 +144,9 @@ lilliput 小人国 <br>
 at the mercy of 任由...摆布 <br>
 
 
+sophisticated /səˈfɪs.tə.keɪ.t̬ɪd/ <br>
+to describe something or someone that is refined, cultured, or has a high level of complexity and elegance. When applied to objects or ideas, it suggests a level of intricacy, advanced design, or development <br>
+eg: If you use idioms when chatting with other people, you can make your language more sophisticated
 
-
-
+intricacy /ˈɪn.trə.kə.si/ <br>
+complicated details <br>
