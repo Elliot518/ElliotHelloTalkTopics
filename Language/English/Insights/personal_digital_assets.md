@@ -1,4 +1,4 @@
-## Building Your Own Data Assets
+## Building Your Own Personal Digital Assets
 
 > Leveraging the "Tool Mindset" for Online Recognition
 

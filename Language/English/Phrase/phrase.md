@@ -38,3 +38,5 @@ put a dent in <br>
 streets ahead 遥遥领先  <br>
 
 in a nutshell 简而言之 <br>
+
+let your hair down 放松 <br>

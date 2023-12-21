@@ -153,3 +153,6 @@ complicated details <br>
 
 
 #号 hashtag <br>
+
+affectation /ˌæfekˈteɪʃ(ə)n/ 做作 <br>
+
