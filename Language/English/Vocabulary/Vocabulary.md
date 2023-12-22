@@ -156,3 +156,5 @@ complicated details <br>
 
 affectation /ˌæfekˈteɪʃ(ə)n/ 做作 <br>
 
+know-it-all 百事通 <br>
+eg: He's a know-it-all <br>
