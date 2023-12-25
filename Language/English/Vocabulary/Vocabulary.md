@@ -158,3 +158,7 @@ affectation /ˌæfekˈteɪʃ(ə)n/ 做作 <br>
 
 know-it-all 百事通 <br>
 eg: He's a know-it-all <br>
+
+clockwise 顺时针 <br>
+counterclockwise 逆时针 <br>
+
