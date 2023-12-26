@@ -162,3 +162,14 @@ eg: He's a know-it-all <br>
 clockwise 顺时针 <br>
 counterclockwise 逆时针 <br>
 
+### Shopping mall
+
+price tag 价牌 <br>
+
+cosmetics 化妆品 <br>
+
+cashier 收银员 <br>
+
+kiosk 专柜 <br>
+
+fitting room 试衣间 <br>
