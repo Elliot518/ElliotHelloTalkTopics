@@ -9,3 +9,6 @@
 
 > The more relaxed someone's mindset and the less they care about the result, the often he will get greater rewards. It's like going with the flow without getting too hung up on results. Only when a person isn't fixated on the result can the full power of the mind be unleashed, because being too fixated goes against the natural order of things. Conversely(On the flip side), once there's overemphasis on results, even if subconsciously, it becomes a deliberate effort, and that might overshadow the necessary focus on the process.
 
+### Too much pressure， not relaxed, it's hard to achieve good result
+
+

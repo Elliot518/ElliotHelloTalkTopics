@@ -173,3 +173,12 @@ cashier 收银员 <br>
 kiosk 专柜 <br>
 
 fitting room 试衣间 <br>
+
+karate /kəˈrɑːti/ 空手道 <br>
+
+soaked 湿透了
+
+hook up guy 勾搭家伙
+
+relationship guy 谈恋爱的家伙
+
