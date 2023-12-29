@@ -23,3 +23,18 @@ Common examples of finger foods include:
 Finger foods are versatile and can range from savory to sweet, catering to various preferences and dietary restrictions. They encourage a relaxed and social atmosphere at events where guests can enjoy a variety of flavors without the formality of a traditional meal.
 
 <hr>
+
+### muffled (声音低沉)
+Your sound is muffled
+
+horse whisperer 马语者 <br>
+
+### side note (旁白,备注)
+eg: You look amazing, side note
+
+### wildfire (bush fire)
+wildfire in Australia
+```
+run from wildfire
+flame is about 20 to 30 feet high, they gotta go through the fire to escape
+```

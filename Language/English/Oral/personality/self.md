@@ -28,3 +28,11 @@ She's a bit slow to warm up to new people <br>
     hit one's stride 找到节奏
 
 - tends to 倾向于
+
+<hr>
+
+### guts (胆量)
+
+> Do you have the guts to do this?
+
+你有没有胆量做这个
