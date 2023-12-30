@@ -38,3 +38,14 @@ wildfire in Australia
 run from wildfire
 flame is about 20 to 30 feet high, they gotta go through the fire to escape
 ```
+
+<hr>
+
+### outperform (胜过, 做得比...好) /ˌaʊtpərˈfɔːrm/
+```
+Computers have started to outperform humans in games they used to lose.
+在曾经败给人类的游戏里，计算机已经开始超越人类。
+```
+
+
+
