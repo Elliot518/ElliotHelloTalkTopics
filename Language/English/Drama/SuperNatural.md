@@ -1,3 +1,12 @@
+## Season 9
+
+Suck as that may, sometimes that's just the way things go <br>
+尽管可能很糟糕，但有时事情就是这样
+
+
+
+<hr>
+
 ## Season 15
 
 ### words of acknowledgement
