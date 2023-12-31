@@ -12,3 +12,8 @@ vlogger ˈvlɑːɡə/ 视频博主 <br>
 podcast 播客 <br>
 
 podcaster 播客创作者 <br>
+
+<hr>
+
+super individual 超级个体  <br>
+

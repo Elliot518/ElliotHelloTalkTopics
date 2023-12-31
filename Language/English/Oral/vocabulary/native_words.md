@@ -47,5 +47,8 @@ Computers have started to outperform humans in games they used to lose.
 在曾经败给人类的游戏里，计算机已经开始超越人类。
 ```
 
+<hr>
+
+visiting from out of town 外地来的
 
 
