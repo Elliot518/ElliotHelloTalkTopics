@@ -52,3 +52,10 @@ Computers have started to outperform humans in games they used to lose.
 visiting from out of town 外地来的
 
 
+### impertinent (粗鲁无礼的) /ɪmˈpɜːrt(ə)nənt/
+```
+He is an impertinent young guy. 
+他是个不懂礼貌的家伙。
+
+可以与arrogant搭配使用
+```

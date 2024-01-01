@@ -152,3 +152,6 @@ A worker must first sharpen his tools. <br>
 ### double edge sword
 > I think using ChatGPT is like a double edge sword, on one hand it makes our English communication easy and pleasant, on the other hand, it makes us become lazy
 
+### You snooze, you lose
+你打瞌睡你就输了(比喻不能放松) <br>
+
