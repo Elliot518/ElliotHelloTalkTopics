@@ -20,3 +20,15 @@ eg:
 As a foodie, most of  posts are related to food.  
 作为一枚吃货，他的大部分博文都和吃有关。
 ```
+
+
+### flatter /ˈflætər/
+奉承, 讨好
+```
+eg:
+He's just flattering you.
+他只是在奉承你。
+
+Don't flatter yourself.
+别自作多情了。
+```
