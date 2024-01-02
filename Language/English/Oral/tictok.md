@@ -85,3 +85,7 @@ An incorrigible person or incorrigible behaviour is bad and impossible to change
 give me some credit <br>
 make me look good <br>
 给我点面子
+
+Is that all you got?
+你就这点能耐
+

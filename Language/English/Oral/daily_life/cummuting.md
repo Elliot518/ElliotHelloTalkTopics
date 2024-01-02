@@ -22,8 +22,12 @@ They juggle tasks, making sure team members are on the same page, ensuring the p
 
 ### Subway
 
-When you're on the subway and standing in an awkward spot, everyone has to squeeze past you, either in front or behind. It gets pretty uncomfortable.
+```
+you can either scan your QR code or swipe the card to take the subway
+您可以扫描二维码或刷卡乘坐地铁
 
+When you're on the subway and standing in an awkward spot, everyone has to squeeze past you, either in front or behind. It gets pretty uncomfortable.
+```
 
 <hr>
 
@@ -41,9 +45,7 @@ Could you please give up your seat for a passenger who needs assistance?
 Would you mind giving your seat to someone who needs help?
 Could you do a favor and let someone who needs assistance sit here?
 ```
-
-
-
+<hr>
 
 
 
