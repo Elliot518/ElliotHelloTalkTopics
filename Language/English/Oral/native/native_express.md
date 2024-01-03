@@ -59,3 +59,36 @@ Looks like today isn't your day; someone else seems to be stealing your spotligh
 Seems like today's not really going your way; someone else is grabbing all the attention.
 Looks like today isn't your day, someone else is hogging all the attention.
 ```
+
+<hr>
+
+### What's eating you
+什么事不开心?
+
+<hr>
+
+
+
+### top something off
+把...加满
+
+```
+Can you top me off
+能给我加满吗(通常是水或酒)
+
+the phrase "top something off" can be used to describe refueling a car
+eg:
+I need to top off the gas tank
+我需要给油箱加满
+```
+
+### hit on someone
+勾搭某人
+
+### patronize
+光顾，屈尊对待
+```
+patronize a store
+patronize someone
+```
+

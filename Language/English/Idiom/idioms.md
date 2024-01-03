@@ -155,3 +155,10 @@ A worker must first sharpen his tools. <br>
 ### You snooze, you lose
 你打瞌睡你就输了(比喻不能放松) <br>
 
+### Fortune favors the bold
+幸运眷顾勇敢的人 <br>
+
+### prepare for a rainy day
+make hay (干草) while the sun shines <br>
+未雨绸缪 <br>
+
