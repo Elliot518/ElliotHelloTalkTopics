@@ -27,6 +27,14 @@ you can either scan your QR code or swipe the card to take the subway
 您可以扫描二维码或刷卡乘坐地铁
 
 When you're on the subway and standing in an awkward spot, everyone has to squeeze past you, either in front or behind. It gets pretty uncomfortable.
+
+In the morning when heading to work and getting to the subway entrance, 
+there's sometimes this person standing in front of the card swipe gate. 
+Most of the time, it's someone a bit older. 
+They're blocking your way as they spend quite a while searching for the QR code on their phone. 
+In that situation, you have to maneuver /məˈnuːvər/ around them, if you don't do that, you‘ll never know how long you might end up waiting.
+
+早上上班的时候，进地铁站的刷卡闸机前，有时候会站着一个人，大部分时候是年纪大一点的人，他们挡在你的前面，在手机上找了半天二维码，这个时候你需要绕到他们前面去，因为你不知道会等多久
 ```
 
 <hr>

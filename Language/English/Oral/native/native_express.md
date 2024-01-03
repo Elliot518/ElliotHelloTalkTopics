@@ -92,3 +92,5 @@ patronize a store
 patronize someone
 ```
 
+### go easy on me
+对我宽容一点

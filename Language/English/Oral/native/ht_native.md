@@ -29,21 +29,8 @@ In spite of all these differences, evidence shows that recent life style changes
 
 <hr>
 
-### hilarious
-/hɪˈleriəs/
-可笑的, 滑稽的(褒)
-```
-hilarious person 搞笑的人
+They always look for everything through the profit motivation <br>
+他们总是通过利益动机来寻找一切 <br>
 
-Lynn found the whole situation hilarious.  
-林恩觉得这一切都非常滑稽。
-
-Do you know Pete? He's hilarious.  
-你认识皮特吗？他风趣得很。
-
-The show was hilarious, I couldn't stop laughing.  
-表演十分滑稽，弄得我笑个不停。
-```
-
-
-
+You sparkle <br>
+你闪闪发光 <br>

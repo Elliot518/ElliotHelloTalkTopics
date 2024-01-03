@@ -80,3 +80,58 @@ The teacher was strict about deadlines and expected assignments to be turned in 
 
 > In summary, while both terms suggest a lack of flexibility, "rigid" often implies physical inflexibility or stiffness, whereas "strict" tends to focus more on a strict adherence to rules, guidelines, or principles, and it is frequently associated with human behavior or regulations.
 
+### hilarious /hɪˈleriəs/
+可笑的, 滑稽的(褒)
+```
+hilarious person 搞笑的人
+
+Lynn found the whole situation hilarious.  
+林恩觉得这一切都非常滑稽。
+
+Do you know Pete? He's hilarious.  
+你认识皮特吗？他风趣得很。
+
+The show was hilarious, I couldn't stop laughing.  
+表演十分滑稽，弄得我笑个不停。
+```
+
+#### what's the differencebetween funny and hilarious
+> "Funny" and "hilarious" both refer to things that provoke laughter, but there is a difference in the degree of amusement they convey.
+
+- Funny
+```
+Definition: 
+Something that is funny is amusing, entertaining, or comical. It can elicit a smile or light laughter.
+
+Usage: 
+This term is more commonly used for things that are mildly(温和地) humorous or amusing but may not necessarily cause intense(强烈的) laughter.
+
+Example: The comedian told a funny joke that had the audience chuckling /ˈtʃʌklɪŋ/ (轻声笑,咯咯笑).
+```
+
+- Hilarious
+```
+Definition: 
+Something that is hilarious is extremely funny, causing loud and prolonged /prəˈlɔːŋd/ (持续很久的) laughter. It is a stronger and more intense level of amusement than simply being funny.
+
+Usage: 
+This term is reserved for things that are exceptionally and uproariously /ʌpˈrɔːriəsli/ (吵闹地,喧嚣地) amusing, often resulting in uncontrollable laughter.
+
+Example: 
+The movie was so hilarious that the entire theater erupted in laughter.
+
+laugh uproariously 哄堂大笑
+```
+
+### maneuver /məˈnuːvər/
+巧妙地移动
+
+### picky guy
+挑剔的家伙
+
+### harass /həˈræs/
+```
+harassing messages
+骚扰短信 
+How many harassing messages do you get every day?
+```
