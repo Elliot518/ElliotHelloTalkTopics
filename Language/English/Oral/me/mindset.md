@@ -1,0 +1,3 @@
+### mentality and performance
+
+> For me, whether it's from studying to working, I've found that good results often come unexpectedly. I may attribute it to my mentality. I need to keep a low profile and work hard, but not obsess over the outcome, almost like I don't care about the results. However, for what I'm currently doing, I need to have passion without chasing results. Can you understand this feeling? It is to be relaxed, immersed. In the end, I often find that this state will get the best results. On the flip side, sometimes setting ambitious goals and putting too much pressure on myself doesn't lead to the desired outcomes. It's a bit in line with the Taoist philosophy in China.
