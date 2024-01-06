@@ -34,3 +34,7 @@ They always look for everything through the profit motivation <br>
 
 You sparkle <br>
 你闪闪发光 <br>
+
+I'm shipping them, cause he's boring but good to look at <br>
+
+She's Korean and was raised by a white couple, cause she was adopted <br>

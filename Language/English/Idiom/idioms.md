@@ -162,3 +162,20 @@ A worker must first sharpen his tools. <br>
 make hay (干草) while the sun shines <br>
 未雨绸缪 <br>
 
+### A wolf travels a thousand miles for a feast, while a dog travels a thousand miles for waste.
+狼行千里吃肉，狗行千里吃屎 <br>
+
+### out with the old, in with the new
+旧的不去，新的不来 <br>
+
+### What you don’t get is fate
+得不到的都是宿命
+
+
+### Live and let live 得饶人处且饶人
+
+### walk on eggshells 如履薄冰
+
+
+### once in a lifetime chance 千载难逢的机会
+

@@ -46,3 +46,26 @@ don't dwell on the past 不要沉迷于过去(不要活在过去) <br>
 sleep on it 再想想吧 <br>
 
 have a blast 玩得开心 <br>
+
+way ahead of you 早想到了 <br>
+
+Sun Tzu's Art of War: Soldiers have no constant momentum, and water has no constant shape. Those who can win due to the enemy's changes are called gods.
+孙子兵法: 兵无常势，水无常形，能因敌变而取胜者，谓之神 <br>
+
+through the grapevine 小道消息 <br>
+
+What's in it for me? 对我有什么好处 <br>
+
+I'll let you get on
+I won't keep you
+I'll leave you to it
+你先忙你的 <br>
+
+
+dodge 躲过
+dodge a bullet 逃过一劫 <br>
+
+brunch 早午餐 <br>
+
+what's on next move 下一步怎么办 <br>
+

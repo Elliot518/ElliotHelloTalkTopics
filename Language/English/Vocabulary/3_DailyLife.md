@@ -12,3 +12,13 @@
 ### cyclical /ˈsaɪklɪk(ə)l/ behavior
 周期性的行为
 
+beanie 冷帽 <br>
+hoodie 连帽卫衣 <br>
+long John's <br>
+thermal  保暖内衣  <br>
+down jacket 羽绒服 <br>
+scarf 围巾 <br>
+hijab <br>
+buy groceries 买菜 <br>
+Phonetic symbols 音标 <br>
+

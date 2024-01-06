@@ -135,3 +135,62 @@ harassing messages
 骚扰短信 
 How many harassing messages do you get every day?
 ```
+
+```
+gargling sound
+speech impediment
+now it's the other way around
+I don't mean to offend anyone
+doppelganger
+arctic storm
+intermittent
+
+
+back-to-back
+live on your own
+live alone
+You must have covered your microphone, just now your voice is a bit low
+autism
+dyslexia
+misdiagonos is definitely a problem
+got a 180 degrees turn
+homophobic
+ambiguous
+strategic ambiguous
+exaggerate
+caravan
+compelling 强烈的
+versatile /ˈvɜːrsət(ə)l/
+
+He is sparkling and versatile
+他才华横溢、多才多艺
+
+computer terminologies 计算机专业术语
+gummy worms
+dinky winky
+Oregon
+angle
+```
+
+
+### coarse-grained /'kɔ:sɡreind/
+```
+Start with a coarse-grained plan.  
+从粗粒度的计划开始。
+
+The man was brutish and coarse.  
+这个人野蛮而粗俗。
+
+brutish /ˈbruːtɪʃ/ 粗野的
+```
+
+
+### fine-grained
+细粒度的
+
+asterisk /ˈæstərɪsk/
+*
+
+
+love handles 游泳圈
+grit
