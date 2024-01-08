@@ -194,3 +194,24 @@ asterisk /ˈæstərɪsk/
 
 love handles 游泳圈
 grit
+
+### millennium /mɪˈleniəm/
+千禧年
+
+### millennials  /mɪˈlen.i.əl/
+千禧一代 
+### Gen Z
+
+```
+Every generation develops these habits at a certain age, but Millennials seem to be extending this phase of life as they postpone marriage.
+每一代人都会在某个年龄段养成这些习惯，但千禧一代似乎因为推迟结婚而延长了这一阶段的生活。
+```
+
+### organically /ɔːrˈɡænɪkli/
+有机地,自然地
+```
+If you put the work in, the result just happens organically
+```
+
+### completely MIA (Missing in Actino)
+完全消失

@@ -9,3 +9,6 @@
 
 > You know, with the rapid evolution of the internet, IT industry reshuffle every few year, IT tech has been going through constant shake-ups every few years. If you don't keep learning and pushing forward, you're gonna get left behind. I'm working on this project to use tech that aligns with the current trends. It's not just about keeping myself sharp but also ensuring our product's tech stays ahead of the curve for the next few years, aligning with what's trending in the mainstream. I hope you get where I'm coming from with this.
 
+### I can't do this alone
+
+

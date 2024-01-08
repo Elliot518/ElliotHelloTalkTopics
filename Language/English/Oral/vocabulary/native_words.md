@@ -59,3 +59,7 @@ He is an impertinent young guy.
 
 可以与arrogant搭配使用
 ```
+
+### way back when 很久以前
+
+### not the norm 不是常态
