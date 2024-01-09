@@ -183,3 +183,29 @@ She's always full of unsolicited advice.
 她总是未被请求即提供一大堆建议。
 ```
 
+### heuristics /hjuˈrɪstɪks/
+启发法
+
+### categorical /ˌkætəˈɡɔːrɪk(ə)l/
+"Categorical" is an adjective that relates to categories or classes. It describes something that is absolute, unconditional, or without exceptions within a particular category or classification.
+
+For example, if you make a categorical statement, you are making an assertion without any room for doubt or exception. In logic and philosophy, a categorical proposition is a statement that affirms or denies something about a particular class of things.
+
+In a more general sense, "categorical" can be used to describe anything that is explicit, definite, or unambiguous within a specific category or classification.
+
+```
+The manager made a categorical statement, ensuring that there would be no exceptions to the new company policy.
+
+Despite numerous questions, she remained categorical in her decision not to attend the event.
+
+The scientist provided a categorical proof for the theory, leaving no room for doubt among her peers.
+
+The professor's instructions were categorical — the assignment was due by 5 p.m., and no late submissions would be accepted.
+教授的指示很明确——作业必须在下午 5 点之前提交，并且不接受逾期提交的作业。
+
+The CEO gave a categorical assurance to the employees that there would be no layoffs during the restructuring process.
+首席执行官向员工明确保证，重组过程中不会裁员。
+
+The court issued a categorical ruling, declaring the contract null and void due to a breach of terms.
+法院作出明确裁决，宣布合同因违反条款而无效。
+```
