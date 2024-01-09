@@ -97,3 +97,89 @@ patronize someone
 
 ### This is the place I've always wanted to go
 这是我一直想去的地方
+
+### 车开得很慢
+The car is moving at a snail's pace
+
+
+### 车开得很快
+The car is hauling ass
+
+### company-owned store
+直营店
+
+### ballot /ˈbælət/
+(无记名)投票选举
+```
+She won 58.8% of the ballot.
+她赢得了投票总数的58.8%。
+
+The first ballot is on Tuesday Nov. 20.
+第一轮投票是在11月20日，星期二。
+```
+
+### deposit /dɪˈpɑːzɪt/
+```
+I think you should deposit your money in the bank.
+我认为你可把钱存入银行。
+```
+
+### At its core
+### Essentially
+它的本质是
+```
+Essentially, a company-owned store means that the company itself owns and operates the retail location, controlling everything from products to customer service
+```
+
+
+### along the lines of
+类似于
+```
+I was thinking more along the lines of an elevator.  
+我想的更多的是电梯的线路。
+```
+
+### blew up 爆炸
+```
+Newspapers blew up the story.  
+报纸夸大了这个故事。
+
+
+
+I'm sorry I blew up at you.  
+对不起，我对你发脾气了。
+
+A storm blew up over the mountains.  
+山上狂风大作。
+
+The bomb blew up.  
+炸弹爆炸了。
+
+Saboteurs blew up a small section of the track.  
+有人蓄意炸毁了一小段路。
+
+saboteurs 破坏者
+```
+
+
+### way too much
+```
+that was way too much difficult for me
+这对我来说太难了
+
+that was way too much easy for you
+这对你来说太容易了
+```
+
+
+### coherence
+
+### cohesion
+
+### unsolicited /ˌʌnsəˈlɪsɪtɪd/
+未经请求的
+```
+She's always full of unsolicited advice.  
+她总是未被请求即提供一大堆建议。
+```
+
