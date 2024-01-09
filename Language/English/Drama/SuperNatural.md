@@ -29,6 +29,42 @@ corporeal /kɔːrˈpɔːriəl/ <br>
 有形的 <br>
 It's gotta be something there, something corporeal <br>
 
+Things've gotten more complicated  情况变复杂了。
+
+We never should've let you come out here in the first place, right?
+我们一开始就不应该让你出来，对吧？
+
+damn near perfect 近乎完美的
+
+It's a damn near perfect hunter 它是个近乎完美的猎手
+
+And it's gonna hunt you down, eat you alive. 它会猎杀你,活吃了你。
+
+Unless you get your stupid sorry ass out of here
+
+You're like a powder keg 你就像一个火药桶。
+
+hit the road  出发,上路
+
+give us a job to do and I intend to do it 给我们一份工作要做，我打算做。
+
+
+Listen to me, you gotta prepare yourself 听我说，你的做好准备。
+
+immortal 不死的
+
+
+immortality 不朽
+
+cool conjunctions:
+ut in the meantime  但与此同时
+
+发音:
+pissed it off  (piss did off)
+pissed him off (piss dim off)
+
+piss it off  (pissy off)
+
 <hr>
 
 ## Season 9
