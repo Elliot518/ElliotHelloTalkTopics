@@ -40,3 +40,8 @@ I'm shipping them, cause he's boring but good to look at <br>
 She's Korean and was raised by a white couple, cause she was adopted <br>
 
 ### I set a timer for myself
+
+### Can you imagine what it feels like to have someone sending you gifts every second?
+
+
+

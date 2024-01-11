@@ -23,6 +23,15 @@ They juggle tasks, making sure team members are on the same page, ensuring the p
 ### Subway
 
 ```
+the subway train in Shanghai is always very crowdy
+most of the time, you don't get a seat
+cause those seats are always occupied by the people queuing in the terminal station
+I hate rat race in Shanghai, even for commuting
+
+but today I'm a lucky dog cause I got a seat
+It's cozy cause I can sleep in the train
+but still I needa keep my ear open in case I miss my destination
+
 you can either scan your QR code or swipe the card to take the subway
 您可以扫描二维码或刷卡乘坐地铁
 

@@ -215,3 +215,27 @@ If you put the work in, the result just happens organically
 
 ### completely MIA (Missing in Actino)
 完全消失
+
+### sleeper trains
+卧铺火车
+
+### illustrative  /ɪˈlʌstrətɪv/
+图解的
+
+```
+helping to explain or prove something
+Falling house prices are illustrative of the crisis facing the construction industry
+房价下跌说明建筑业面临危机
+```
+
+### preliminary /prɪˈlɪmɪneri/
+初步的  <br>
+preliminary analysis 初步分析
+
+### protest 
+抗议  <br>
+```
+my colleagues protested to me cause we are in a very small office
+my chatting with you guys in the live stream room had affected their normal work
+```
+

@@ -209,3 +209,9 @@ The CEO gave a categorical assurance to the employees that there would be no lay
 The court issued a categorical ruling, declaring the contract null and void due to a breach of terms.
 法院作出明确裁决，宣布合同因违反条款而无效。
 ```
+
+
+
+### Well I'm tempted to say ...
+好吧，(被你这么一说)我只能说
+

@@ -13,3 +13,15 @@
 事实证明这只是我们的一厢情愿
 
 No reason why, just memorize it
+
+
+### sabotage /ˈsæbətɑːʒ/
+蓄意破坏
+
+### boxing day sales
+节礼日销售  <br>
+seaching for bargains on boxing day  
+
+### In some cases
+在某些情况下
+

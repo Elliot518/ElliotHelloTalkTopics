@@ -22,3 +22,4 @@ hijab <br>
 buy groceries 买菜 <br>
 Phonetic symbols 音标 <br>
 
+plunger 活塞(厕所抽水用) <br>
