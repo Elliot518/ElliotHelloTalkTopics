@@ -245,3 +245,19 @@ my chatting with you guys in the live stream room had affected their normal work
 
 
 
+
+### mindset
+```
+Having a growth mindset can lead to greater success in both personal and professional endeavors(努力)
+
+She approached the challenge with a positive mindset, ready to learn and overcome obstacles
+
+Developing a resilient mindset is crucial for navigating life's ups and downs
+培养坚韧的心态对于应对生活的起起落落至关重要
+
+In order to achieve your goals, it's essential to maintain a determined mindset
+为了实现目标，保持坚定的心态至关重要
+
+He credits his success to a mindset of continuous improvement and adaptability
+他将自己的成功归功于持续改进和适应能力的心态
+```

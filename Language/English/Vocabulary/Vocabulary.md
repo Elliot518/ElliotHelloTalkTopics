@@ -195,3 +195,7 @@ emulates 模仿 <br>
 indice /ˈɪndɪs/
 指数,索引 <br>
 
+superstitious /ˌsuːpərˈstɪʃəs/
+迷信的 <br>
+
+smash it 砸了它 <br>

@@ -25,3 +25,13 @@ Most psychopaths are delusional.
 
 ### mirage /məˈrɑːʒ/
 海市蜃楼,幻想
+
+### gig 
+临时的工作 <br>
+a job that is temporary, does not offer many hours, or may end at any time, usually involving working for yourself rather than for an employer
+```
+Generation Zs are looking for more certainty and stability, because of the rise of the gig economy.
+
+由于零工经济的兴起，Z 世代正寻求更多的确定性和稳定性。
+```
+

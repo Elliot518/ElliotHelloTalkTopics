@@ -25,3 +25,10 @@ seaching for bargains on boxing day
 ### In some cases
 在某些情况下
 
+### 给我点面子
+```
+cut me some slack
+humour me
+Don't make me look bad
+```
+

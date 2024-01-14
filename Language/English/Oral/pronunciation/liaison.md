@@ -15,3 +15,5 @@
 ### figure it out (figridout)
 想办法
 
+are you scared of them 
+
