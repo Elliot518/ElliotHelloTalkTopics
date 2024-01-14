@@ -67,6 +67,17 @@ piss it off  (pissy off)
 
 <hr>
 
+
+### Episode 3
+
+Time really does fly, huh? 时间真的过得很快吧？ <br>
+
+Can we talk in person  我们可以面谈吗  <br>
+
+No, not by a long shot 不不，差远了  <br>
+
+I'm not much of a drinker 我不是一个爱喝酒的人 <br>
+
 ## Season 9
 
 Suck as that may, sometimes that's just the way things go <br>

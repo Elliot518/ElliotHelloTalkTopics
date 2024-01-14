@@ -176,12 +176,22 @@ fitting room 试衣间 <br>
 
 karate /kəˈrɑːti/ 空手道 <br>
 
-soaked 湿透了
+soaked 湿透了 <br>
 
-hook up guy 勾搭家伙
+hook up guy 勾搭家伙 <br>
 
-relationship guy 谈恋爱的家伙
+relationship guy 谈恋爱的家伙 <br>
 
-social phbia 社交恐惧症
+social phbia 社交恐惧症 <br>
 
+
+spurious /ˈspjʊriəs/ 站不住脚的，荒谬的 <br>
+spurious patterns 虚假模式 <br>
+
+fluctuations /,flʌktju'eiʃəns/ 波动，起伏 <br>
+
+emulates 模仿 <br>
+
+indice /ˈɪndɪs/
+指数,索引 <br>
 

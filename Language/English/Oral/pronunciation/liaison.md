@@ -12,3 +12,6 @@
 ### cut it out (cutidout)
 停下
 
+### figure it out (figridout)
+想办法
+

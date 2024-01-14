@@ -216,3 +216,44 @@ The court issued a categorical ruling, declaring the contract null and void due 
 好吧，(被你这么一说)我只能说
 
 ### catch up (on)
+```
+catch up on some emails
+catch up on some cleaning
+you wanna get some coffee and catch up?
+```
+
+### go over
+```
+Could you go over this email before I send it?
+```
+
+### head
+go directly to
+```
+I'm heading home
+I'm headed to the store
+It's time to head out
+```
+
+### worthwhile
+```
+your opinion is worthwhile
+```
+
+### open up to
+```
+when you are ready to open up to someone, you'll be the authentic yourself
+```
+
+### hang out
+to spend a lot of time in a place or with someone
+```
+We love to hang out in the backyard
+```
+
+
+### hangout 
+a place where someone spends a lot of time, or where someone lives
+```
+It's a hangout spot
+```
