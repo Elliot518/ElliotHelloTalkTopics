@@ -261,3 +261,11 @@ In order to achieve your goals, it's essential to maintain a determined mindset
 He credits his success to a mindset of continuous improvement and adaptability
 他将自己的成功归功于持续改进和适应能力的心态
 ```
+
+### OCD(Obsessive Compulsive Disorder)
+强迫症 <br>
+```
+I have a bit of OCD when it comes to coding organizations
+我有一点代码组织强迫症
+```
+
