@@ -23,3 +23,12 @@ buy groceries 买菜 <br>
 Phonetic symbols 音标 <br>
 
 plunger 活塞(厕所抽水用) <br>
+
+### 好眼力
+good eye <br>
+sharp <br>
+```
+You got a good eye
+You're sharp
+```
+

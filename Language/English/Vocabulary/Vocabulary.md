@@ -199,3 +199,13 @@ superstitious /ˌsuːpərˈstɪʃəs/
 迷信的 <br>
 
 smash it 砸了它 <br>
+
+conjugate ˈkɑːndʒəɡeɪt/ <br>
+动词的词形变化列举
+```
+How does this verb conjugate?  
+这个动词有哪些词形变化？
+```
+
+sun dried tomato 晒干的番茄 <br>
+
