@@ -209,3 +209,11 @@ How does this verb conjugate?
 
 sun dried tomato 晒干的番茄 <br>
 
+infringe one's copyright 侵权 <br>
+
+
+cumbersome /ˈkʌmbərsəm/ 笨重的，繁琐的 <br>
+```
+Combining different datasets in Excel can be a cumbersome task
+在 Excel 中组合不同的数据集可能是一项繁琐的任务
+```
