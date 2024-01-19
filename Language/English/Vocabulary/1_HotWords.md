@@ -269,3 +269,13 @@ I have a bit of OCD when it comes to coding organizations
 我有一点代码组织强迫症
 ```
 
+### cliche /kliːˈʃeɪ/
+陈词滥调 <br>
+
+```
+OK, time to put this business cliche back in the box now.  
+好吧，是时候把这个滥用语扫到语言的垃圾箱了。
+
+Even though some are a cliche, I'm always amused by them.  
+即使有些显得老套，但它们总能让我欣喜不已。
+```

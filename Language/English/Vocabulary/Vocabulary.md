@@ -217,3 +217,8 @@ cumbersome /ˈkʌmbərsəm/ 笨重的，繁琐的 <br>
 Combining different datasets in Excel can be a cumbersome task
 在 Excel 中组合不同的数据集可能是一项繁琐的任务
 ```
+
+Buffalo, New York <br>
+```
+It is a city located in western New York, near the Canada–United States border.
+```

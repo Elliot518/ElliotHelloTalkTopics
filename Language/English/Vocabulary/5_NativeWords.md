@@ -35,3 +35,25 @@ Generation Zs are looking for more certainty and stability, because of the rise 
 由于零工经济的兴起，Z 世代正寻求更多的确定性和稳定性。
 ```
 
+### nasal /ˈneɪz(ə)l/
+鼻音的
+```
+Yesterday, I heard you had a pretty strong nasal tone during the meeting.
+昨天听到你在会议里有很强的鼻音
+```
+
+
+
+
+
+### senior group/youth group
+```
+They're in the senior group with an average age of 60, and we're in the youth group with an average age of 30
+他们是老年组，平均年龄60岁，我们是青年组，平均年龄30岁
+```
+
+
+
+
+
+
