@@ -35,3 +35,36 @@ Don't make me look bad
 ### Do you have a six-pack? 
 你有6块腹肌吗
 
+### a wishful thinking
+一厢情愿
+```
+Today, talk about swift recovery of the global economy sounds more like wishful thinking than a frank look at reality.  
+今天，谈论全球经济的迅速复苏更像是一厢情愿，而不是坦诚面对现实。
+```
+
+
+
+
+
+### cater to 
+迎合，满足 ... 的需求
+```
+They only publish novels which cater to the mass-market.  
+他们只出版迎合大众市场的小说。
+```
+
+### jump the gun
+抢跑,在比赛开始之前就行动
+```
+I don't want to jump the gun here
+
+Don't jump the gun. We need a further discussion.  
+不要草率行事，我们还需要作进一步讨论。
+```
+
+### break even
+收支(盈亏)平衡
+```
+The airline hopes to break even next year and return to profit the following year.  
+该航空公司希望来年盈亏平衡，并在随后一年重新开始盈利。
+```
