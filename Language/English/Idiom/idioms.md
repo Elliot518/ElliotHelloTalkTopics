@@ -179,3 +179,9 @@ make hay (干草) while the sun shines <br>
 
 ### once in a lifetime chance 千载难逢的机会
 
+### what makes you comfortable can ruin you, and what makes you uncomfortable is the only way to grow
+
+
+### whatever will be, will be
+顺其自然
+
