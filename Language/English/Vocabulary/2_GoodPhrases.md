@@ -68,3 +68,16 @@ Don't jump the gun. We need a further discussion.
 The airline hopes to break even next year and return to profit the following year.  
 该航空公司希望来年盈亏平衡，并在随后一年重新开始盈利。
 ```
+
+### press(push) one's luck
+贪心,得寸进尺
+
+### clean up the mess
+清理残局
+
+### talk nonsense
+胡说八道
+```
+Why do you talk nonsense all the time?  
+你怎么老在胡言乱语啊？
+```

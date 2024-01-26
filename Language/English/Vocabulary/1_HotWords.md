@@ -288,3 +288,23 @@ Even though some are a cliche, I'm always amused by them.
 The system is set up but it needs some fine-tuning.  
 该系统已装配好，但需要一些细小调整。
 ```
+
+### contingency /kənˈtɪndʒənsi/
+可能发生的事情, 应急措施
+
+```
+We have contingency plans.  
+我们有应变计划。
+```
+
+### pretentious /prɪˈtenʃəs/
+自命不凡的,做作的
+```
+That's a pretentious name for a dog!  
+狗叫这个名字真够炫的！
+
+He's so pretentious!  
+瞧他那副自命不凡的样儿！
+
+
+```
