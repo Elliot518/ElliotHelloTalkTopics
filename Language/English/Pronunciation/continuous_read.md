@@ -6,3 +6,6 @@ Pay attention to the continuous reading between words
 
 
 - gonna = going to
+
+Do you have any ...
+/dəjəveni/
