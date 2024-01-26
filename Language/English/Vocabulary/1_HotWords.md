@@ -306,5 +306,6 @@ That's a pretentious name for a dog!
 He's so pretentious!  
 瞧他那副自命不凡的样儿！
 
-
+His response was full of pretentious nonsense.  
+他的回答尽是些装腔作势的胡说八道。
 ```
