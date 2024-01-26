@@ -279,3 +279,12 @@ OK, time to put this business cliche back in the box now.
 Even though some are a cliche, I'm always amused by them.  
 即使有些显得老套，但它们总能让我欣喜不已。
 ```
+
+
+
+### fine-tuning /ˌfaɪn ˈtuːnɪŋ/
+微调
+```
+The system is set up but it needs some fine-tuning.  
+该系统已装配好，但需要一些细小调整。
+```
