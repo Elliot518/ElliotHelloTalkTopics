@@ -309,3 +309,30 @@ He's so pretentious!
 His response was full of pretentious nonsense.  
 他的回答尽是些装腔作势的胡说八道。
 ```
+
+### streamline
+
+精简, 使效率更高
+```
+streamline the process
+
+They're making efforts to streamline their normally cumbersome bureaucracy.
+他们正努力提高其通常臃肿的官僚机构的效率。
+```
+
+### cumbersome /ˈkʌmbərsəm/
+笨重的,繁琐的
+```
+Although the machine looks cumbersome, it is actually easy to use. 
+这机器虽然看起来笨重，其实使用起来很方便。
+
+The organization changed its cumbersome title to something easier to remember.  
+这家机构把它那复杂累赘的名称改得好记一些了。
+```
+
+### bureaucracy /bjʊˈrɑːkrəsi/
+官僚主义,官僚制度
+```
+We need to free business from the dead hand of bureaucracy.  
+我们必须摆脱官僚主义对工作的严重影响。
+```

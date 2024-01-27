@@ -81,3 +81,17 @@ The airline hopes to break even next year and return to profit the following yea
 Why do you talk nonsense all the time?  
 你怎么老在胡言乱语啊？
 ```
+
+### embark a journey to
+踏上  的旅程
+
+### embark
+上船,上飞机;着手,开始
+```
+Some forethought and preparation is necessary before you embark on the project
+你着手进行这个项目之前必须有所考虑，有所准备。
+```
+
+### unlock the full potential of
+释放  的全部潜力
+
