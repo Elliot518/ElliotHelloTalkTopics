@@ -85,3 +85,15 @@ Characteristics of constructive criticism include:
 > Constructive criticism is often contrasted with destructive criticism, which tends to be negative, unhelpful, and may focus on personal attacks rather than the improvement of specific behaviors or outcomes. The goal of constructive criticism is to foster a positive and growth-oriented environment, whether in the workplace, creative projects, or personal development.
 
 
+### Kids without marriage
+
+In China nowadays, many young people are choosing not to get married
+
+I'm not quite sure if the younger generation not getting married is a shift 
+in lifestyle attitudes or a response to practical pressures
+
+
+millienial Gen Z 
+
+I think marriage is a symbol of love, commitment, duty
+If you're not ready to handle these things, then don't rush into marriage

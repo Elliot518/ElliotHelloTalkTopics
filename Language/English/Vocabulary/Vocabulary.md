@@ -222,3 +222,20 @@ Buffalo, New York <br>
 ```
 It is a city located in western New York, near the Canada–United States border.
 ```
+
+laughing stock <br> 
+笑柄
+
+ragged /ˈræɡɪd/
+破旧的, 衣衫褴褛的
+```
+The five survivors eventually reached safety, ragged, half-starved, and exhausted
+这5名幸存者最终到达了安全地带，衣衫褴褛、饿得半死、筋疲力尽
+```
+
+cloak 斗篷 <br>
+
+admiral /ˈædmərəl/  <br>
+海军上将,舰队司令 
+
+wrist  手腕 <br>
