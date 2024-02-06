@@ -185,3 +185,5 @@ make hay (干草) while the sun shines <br>
 ### whatever will be, will be
 顺其自然
 
+### strike while the iron is hot
+趁热打铁
