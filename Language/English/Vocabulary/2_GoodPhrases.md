@@ -95,3 +95,10 @@ Some forethought and preparation is necessary before you embark on the project
 ### unlock the full potential of
 释放  的全部潜力
 
+### slack off
+上班摸鱼
+```
+You've been slacking off all morning
+你整个上午都在偷懒
+```
+
