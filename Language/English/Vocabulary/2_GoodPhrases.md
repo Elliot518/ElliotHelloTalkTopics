@@ -102,3 +102,10 @@ You've been slacking off all morning
 你整个上午都在偷懒
 ```
 
+### That was not my intension
+我不是故意的
+
+### scared the crap out of me
+吓尿了
+
+
