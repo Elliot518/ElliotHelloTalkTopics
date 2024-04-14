@@ -109,3 +109,26 @@ You've been slacking off all morning
 吓尿了
 
 
+### It just hit me
+突然想到什么
+
+### It just popped into my head
+### I had a sudden realization
+突然想到什么
+
+### An idea just popped into my head
+突然冒出一个主意
+
+### I came up with something out of the blue
+我突然想到了一些事情
+
+### Here's the thing to keep in mind
+这里需要注意的是
+```
+It's important to note that
+Something to watch out for is
+Just a heads-up
+Just a quick reminder
+```
+
+
