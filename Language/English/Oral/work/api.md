@@ -1,0 +1,1 @@
+> I have no idea what's the problem with that xx API? They only had 12 test cases for the subflows. When I brought those 12 over to my project, test coverage was only hitting 80%. Way below that 90% what it should be. So, I coded on 10 more test cases, covering all the error scenarios and the main flow. Now the coverage is at 98%
