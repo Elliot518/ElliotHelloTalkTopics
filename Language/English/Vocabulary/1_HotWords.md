@@ -336,3 +336,13 @@ The organization changed its cumbersome title to something easier to remember.
 We need to free business from the dead hand of bureaucracy.  
 我们必须摆脱官僚主义对工作的严重影响。
 ```
+
+### cost effective 
+性价比高
+```
+economical
+budget friendly
+cost efficient
+best value for money
+```
+

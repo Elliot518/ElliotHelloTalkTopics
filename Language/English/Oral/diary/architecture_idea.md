@@ -1,0 +1,1 @@
+Perhaps it's a bit abstract now as I describe it to you, but once I've put all of these pieces together according to the initial architecture diagram, you'll see it come to life. Then you'll experience its power and understand why I've chosen to do it this way.
