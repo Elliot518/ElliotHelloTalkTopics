@@ -346,3 +346,10 @@ cost efficient
 best value for money
 ```
 
+### derisk
+去风险
+```
+derisk xxx 
+降低xxx的风险
+```
+
