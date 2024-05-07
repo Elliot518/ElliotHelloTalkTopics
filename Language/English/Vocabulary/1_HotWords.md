@@ -357,3 +357,13 @@ derisk xxx
 招牌菜
 
 
+### internet celebrity
+网红
+```
+I hope this video gets some views
+
+He's got a lot publicity recently
+```
+
+
+
