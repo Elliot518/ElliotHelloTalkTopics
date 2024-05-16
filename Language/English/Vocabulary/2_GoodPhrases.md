@@ -133,3 +133,10 @@ Just a quick reminder
 
 ### keep one's nose to the grindstone 
 埋头苦干
+
+### pre-made meal 
+预制菜
+```
+processed food
+```
+
