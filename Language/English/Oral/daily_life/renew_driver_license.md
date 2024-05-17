@@ -1,0 +1,1 @@
+> Today, I went to renew my driver's license because it was about to expire. First, I went to the hospital for a driver's physical check, and then I went to the nearby police office to get my new license. It went pretty smoothly.
