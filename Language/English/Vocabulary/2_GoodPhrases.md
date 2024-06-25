@@ -146,3 +146,14 @@ processed food
 I kind of just went out on a limb for you, what the fuck
 ```
 
+### The irony 
+讽刺的是
+```
+The irony is that if you had taken the 10 million dollars, you'd be kicking back with a ton of money right now.
+But actually you didn't, you're working your ass off.
+```
+
+
+
+
+
