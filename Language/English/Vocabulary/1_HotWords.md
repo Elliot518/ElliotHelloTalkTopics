@@ -365,5 +365,5 @@ I hope this video gets some views
 He's got a lot publicity recently
 ```
 
-
-
+### cognition decline
+认知下降
