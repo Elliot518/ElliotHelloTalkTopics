@@ -153,7 +153,7 @@ The irony is that if you had taken the 10 million dollars, you'd be kicking back
 But actually you didn't, you're working your ass off.
 ```
 
-
-
+### when you get knocked down, you get backed up
+哪里跌倒，哪里站起来
 
 
