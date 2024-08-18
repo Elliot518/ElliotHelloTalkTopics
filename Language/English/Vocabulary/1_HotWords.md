@@ -367,3 +367,8 @@ He's got a lot publicity recently
 
 ### cognition decline
 认知下降
+
+### social butterfly
+### people person
+社牛
+
