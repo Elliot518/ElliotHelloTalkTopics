@@ -372,3 +372,5 @@ He's got a lot publicity recently
 ### people person
 社牛
 
+### Aeolian Pterosaur /ˈterəˌsɔːr/
+风神翼龙
