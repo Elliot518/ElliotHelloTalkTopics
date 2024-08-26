@@ -239,3 +239,23 @@ admiral /ˈædmərəl/  <br>
 海军上将,舰队司令 
 
 wrist  手腕 <br>
+
+### angray(1-10)
+```
+tick off(3)
+eg: He was ticked off when his coworker stole his idea
+
+mad 4
+angry 5
+livid 10
+```
+
+### hungry(1-10)
+
+```
+peckish 1
+hungry 3
+famished 5
+starving 7
+ravenous 9
+```
