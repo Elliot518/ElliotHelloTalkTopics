@@ -160,3 +160,8 @@ But actually you didn't, you're working your ass off.
 ### 说了太多废话
 I've been rambling on too much
 I've been talking too much nonsense
+
+
+### out of the blue 
+unexpected
+

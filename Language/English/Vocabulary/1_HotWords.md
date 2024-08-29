@@ -374,3 +374,26 @@ He's got a lot publicity recently
 
 ### Aeolian Pterosaur /ˈterəˌsɔːr/
 风神翼龙
+
+### Karen
+The customer was acting like Karen
+```
+In recent years, the term “Karen” has become a popular slang in American culture. It generally refers to a stereotype of a certain type of middle-aged white woman who is perceived as being entitled, demanding, or overly assertive in a way that is unreasonable or confrontational, especially in public settings.
+
+When someone says, “The customer was acting like a Karen,” they typically mean that the customer was behaving in a demanding, difficult, or entitled manner, often expecting special treatment or causing a scene over something minor.
+```
+
+### Felicia /fəˈlɪʃə/
+```
+“Felicia” is a term that became popular as a slang expression thanks to the 1995 movie Friday. In the film, a character named Felicia is dismissed with the phrase “Bye, Felicia,” which is delivered in a dismissive, uninterested tone.
+
+Since then, “Bye, Felicia” has become a way to dismiss someone or something unimportant or to tell someone to go away when you’re not interested in their opinions or presence. It’s often used in a humorous or slightly sarcastic context.
+
+So if someone says, “Felicia,” they might be referring to someone who is being dismissed or ignored, or they could be using it as a playful way to say “goodbye” to someone they find annoying or irrelevant.
+```
+
+### nitpick
+fault finding(吹毛求疵)
+```
+We shouldn't demand perfection.; Don't nitpick.
+```
