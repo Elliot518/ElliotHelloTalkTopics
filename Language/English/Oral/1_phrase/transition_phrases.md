@@ -17,3 +17,18 @@ Nonetheless - 尽管如此
 Meanwhile - 与此同时
 In conclusion - 总之
 ```
+
+### 和我有什么关系?
+```
+Does it matter to me?
+What is that gotta do with me?
+How's that gotta do with me?
+What’s that got to do with me?
+```
+
+### 那还只是保守估计
+```
+And that’s just a conservative estimate.
+And that’s just a rough estimate.
+And that’s just on the low end.
+```
