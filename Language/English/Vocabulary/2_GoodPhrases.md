@@ -165,3 +165,5 @@ I've been talking too much nonsense
 ### out of the blue 
 unexpected
 
+### bite the hand that feeds you
+恩将仇报
