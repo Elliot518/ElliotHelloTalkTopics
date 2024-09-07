@@ -52,7 +52,9 @@ They're in the senior group with an average age of 60, and we're in the youth gr
 他们是老年组，平均年龄60岁，我们是青年组，平均年龄30岁
 ```
 
+### think outside the box
 
+### narrow minded
 
 
 
