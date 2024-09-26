@@ -56,6 +56,6 @@ They're in the senior group with an average age of 60, and we're in the youth gr
 
 ### narrow minded
 
-
+### diversity and opportunities
 
 
