@@ -259,3 +259,9 @@ famished 5
 starving 7
 ravenous 9
 ```
+
+### villain /ˈvɪlən/
+恶棍，反派
+
+### bastard /ˈbæstərd/
+讨厌鬼，棘手的事
