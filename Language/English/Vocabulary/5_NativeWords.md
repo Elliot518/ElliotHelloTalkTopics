@@ -62,3 +62,18 @@ They're in the senior group with an average age of 60, and we're in the youth gr
 怪蜀黍
 
 
+### GSW(Gunshot Wound)
+枪伤(abbr.)
+```
+The man arrived at the ER with a GSW to the chest and was immediately taken into surgery
+该男子因胸部受伤被送至急诊室，并立即被送往手术室
+```
+
+### wrap it up
+结束(收工)
+
+```
+Let's wrap it up
+```
+
+
