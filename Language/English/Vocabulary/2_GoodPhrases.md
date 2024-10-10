@@ -96,10 +96,14 @@ Some forethought and preparation is necessary before you embark on the project
 释放  的全部潜力
 
 ### slack off
-上班摸鱼
+摸鱼
+
 ```
 You've been slacking off all morning
 你整个上午都在偷懒
+
+We can afford to slack off a bit.
+我们可以稍微偷懒一下。
 ```
 
 ### That was not my intension
@@ -175,3 +179,9 @@ unexpected
 ### get on the subway
 
 ### teach people comprehensively
+
+### bloated
+臃肿的
+```
+The API is very bloated
+```
