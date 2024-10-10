@@ -412,3 +412,13 @@ He checked into the hotel under an alias.
 The employees in Alibaba they all use aliases
 阿里巴巴的员工都用化名
 ```
+
+numb /nʌm/
+```
+My fingers are numb with cold.
+我的手指冻麻木了。
+
+We are completely numb to what is happening around us.
+我们对周围发生的事情完全麻木了。
+```
+
