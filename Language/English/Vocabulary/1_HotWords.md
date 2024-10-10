@@ -403,3 +403,12 @@ We shouldn't demand perfection.; Don't nitpick.
 you need to chill out
 
 crack up = burst into laughter
+
+### alias /ˈeɪliəs/
+```
+He checked into the hotel under an alias.
+他用化名登记住进旅馆。
+
+The employees in Alibaba they all use aliases
+阿里巴巴的员工都用化名
+```
