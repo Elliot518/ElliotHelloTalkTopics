@@ -185,3 +185,25 @@ unexpected
 ```
 The API is very bloated
 ```
+
+### terrain /təˈreɪn/
+地形
+
+### know sth. like the back of my hand
+对...了如指掌
+
+```
+He knows the terrain of this locality like the back of his hand.
+他对这一带的地形了如指掌。
+```
+
+locality /loʊˈkæləti/
+某一地带
+```
+There is no airport in the locality.
+这个地区没有飞机场。
+
+
+We talk of the brain as the locality of thought.
+我们把进行思维的地方叫做大脑。
+```
