@@ -265,3 +265,10 @@ ravenous 9
 
 ### bastard /ˈbæstərd/
 讨厌鬼，棘手的事
+
+### hushed
+The library provides a hushed environment
+
+### pitch black night
+
+

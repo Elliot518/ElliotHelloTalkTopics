@@ -397,3 +397,9 @@ fault finding(吹毛求疵)
 ```
 We shouldn't demand perfection.; Don't nitpick.
 ```
+
+### chill out
+放松下来
+you need to chill out
+
+crack up = burst into laughter

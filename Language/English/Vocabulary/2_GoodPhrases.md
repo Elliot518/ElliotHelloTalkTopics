@@ -172,3 +172,6 @@ unexpected
 保释某人
 
 
+### get on the subway
+
+### teach people comprehensively
