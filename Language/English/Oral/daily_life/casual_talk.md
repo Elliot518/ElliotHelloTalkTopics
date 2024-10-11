@@ -23,3 +23,9 @@ This phrasing keeps it natural and easy to understand.
 - Keanu Reeves
 
 ### gringo /ˈɡrɪŋɡoʊ/ 外国佬(敌意或轻蔑的用语)
+
+
+### Spider in the morning
+```
+I totally believe that seeing a spider in the morning brings good luck because it’s happened to me so many times! I vividly remember the first time—it was back when I was in elementary school. I got up in the morning, looked in the mirror, and saw a white spider on it. That same day, I had a final exam, and math was super tough, but I was in the zone and ended up getting a perfect score. Meanwhile, everyone else did pretty badly, and they were all so mad at me!
+```
