@@ -1,5 +1,11 @@
 ## commuting /kəˈmjuːtɪŋ/
 
+### commuting time
+```
+Commuters complain that increased rush-hour traffic on Blue Highway between the suburbs and the city center has doubled their commuting time.
+通勤者抱怨说，在郊区和市中心之间的蓝色高速公路上，高峰时间交通流量的增加使他们的通勤时间增加了一倍。
+```
+
 ### Crossroad "Traffic Cop"
 
 Every day on my way to work, I pass through a crossroad, right at the entrance of a ground parking area. 
@@ -66,3 +72,11 @@ Could you do a favor and let someone who needs assistance sit here?
 
 
 
+## Little Dialog
+
+### ear tips stuck
+```
+I had a little scare yesterday on my way to work. 
+I was feeling hungry, so I stopped by a KFC. I had my wireless Bluetooth earbuds in, you know, the kind with the soft silicone ear tips. After I ordered, I sat down and was ready to enjoy my breakfast. But when I took out my earbuds, the left ear tip got stuck in my ear! I started to panic because I couldn’t see it, and when I tried to pull it out, it was stuck too tight, the more I tried, the deeper it seemed to go, and I freaked out for a second, thinking I might need to go to the hospital to get it out. But I decided to ask for help instead. I found one of the KFC workers, this older madam, she managed to pull it out for me. I was so appreciated!
+And right after that, I immediately ordered a pair of wireless Bluetooth earbuds online that don’t have any ear tips!
+```
