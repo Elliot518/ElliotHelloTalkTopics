@@ -207,3 +207,18 @@ There is no airport in the locality.
 We talk of the brain as the locality of thought.
 我们把进行思维的地方叫做大脑。
 ```
+
+
+### face the music
+
+```
+If someone has to face the music, they have to accept the consequences of doing something wrong
+After the scandal, he had to face the music and resign from his position
+```
+
+### go with the flow
+随波逐流
+```
+Don't worry about it, just go with the flow
+```
+

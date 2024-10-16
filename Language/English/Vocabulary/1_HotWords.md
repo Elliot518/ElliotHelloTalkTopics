@@ -422,3 +422,11 @@ We are completely numb to what is happening around us.
 我们对周围发生的事情完全麻木了。
 ```
 
+resilience /rɪˈzɪliəns/
+恢复力, 弹性
+```
+Even after losing the game, his resilience helped him keep trying
+
+These past ten years tell a story of resilience
+过去这十年讲述了一个关于不屈不挠精神的故事
+```
