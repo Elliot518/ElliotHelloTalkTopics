@@ -272,3 +272,13 @@ The library provides a hushed environment
 ### pitch black night
 
 
+### portfolio /pɔːrtˈfoʊlioʊ/
+n. 公文包，画夹；（成册展示的）作品集，照片集；（个人或机构的）投资组合；（部长或大臣的）职责，职务；（公司或机构提供的）系列产品，成套物品
+adj. （职业类型）短期合同制的，兼职的
+网络 投资组合；作品集；组合
+```
+The entire portfolio is worth $160,312. Of this amount, my investment is worth only $7,748
+整个投资组合价值为$160312。在这当中，我的投资额仅为$7748
+```
+
+
