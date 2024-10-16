@@ -282,3 +282,23 @@ The entire portfolio is worth $160,312. Of this amount, my investment is worth o
 ```
 
 
+### revamp /ˈriːvæmp/
+翻新，改变，改革
+```
+He decided to revamp the company's provincial image (provincial /prəˈvɪnʃ(ə)l/ 守旧的)
+他决定改变公司守旧的形象
+
+I needed to revamp my lifestyle
+我需要改变我的生活方式
+
+All the country's political parties have accepted that it is time to revamp the system
+这个国家的所有政党都认可现在是改革这一体制的时候了
+```
+
+### industrious /ɪnˈdʌstriəs/
+"industrious" describes someone who is hardworking and diligent.
+```
+She was an industrious and willing worker
+她是个勤劳肯干的工人
+```
+

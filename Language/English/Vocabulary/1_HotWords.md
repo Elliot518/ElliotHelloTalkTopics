@@ -430,3 +430,8 @@ Even after losing the game, his resilience helped him keep trying
 These past ten years tell a story of resilience
 过去这十年讲述了一个关于不屈不挠精神的故事
 ```
+
+
+OG ongoing growth
+持续增长
+
