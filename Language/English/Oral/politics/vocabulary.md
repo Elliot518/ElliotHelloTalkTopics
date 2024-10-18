@@ -6,6 +6,6 @@
 - technological arms race
 科技军备竞赛
 
-- Houthi rebel 
+- Hootie rebels
 胡塞武装
 
