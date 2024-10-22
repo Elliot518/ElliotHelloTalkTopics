@@ -31,5 +31,34 @@ I totally believe that seeing a spider in the morning brings good luck because i
 ```
 
 ### English popularity
+```
 Let’s say, out of 10 people, based on China’s aging population data, there are 5 elderly folks who belong to the older generation. Because of historical reasons, most of them stayed in China and don’t speak English. Out of the remaining people, it’s no exaggeration /ɪɡˌzædʒəˈreɪʃ(ə)n/ to say that about two-thirds have what we’d call ‘mute English’ or dumb English, they can understand but can’t really respond. So, the chances of you finding someone who can actually have a conversation with you is just a percentage—it’s really just a matter of probability
+```
+
+### Halloween
+```
+looks like you’re all getting ready for Halloween, right?
+```
+
+### nap
+```
+ooks like you’re all getting ready for Halloween, right?
+```
+
+
+### Spanish
+```
+Spanish requires a lot of tongue rolling, and it takes practice. My tongue’s kind of clumsy, so I just can’t do it, so I gave up!
+```
+
+
+### hurricane /ˈhɜːrəkeɪn/
+```
+When a hurricane hits, it picks up a lot of debris /dəˈbriː/ pieces from houses and turns them into missiles. It’s pretty terrifying.
+```
+
+### old people working
+```
+A lot of elderly people in Japan are still working, like driving taxis, because of the real estate crash in the ’90s. When the property bubble burst, many people lost their savings and even ended up deep in debt, so they have no choice but to keep working, even when they should be retired
+```
 
