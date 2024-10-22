@@ -1,0 +1,1 @@
+Hooks Bluff is a small community in northeastern Alabama, located within Jackson County. It’s in the mountainous region of the state, near the border with Tennessee. The area is known for its rural landscape, close to outdoor recreational opportunities, including parts of the Appalachian foothills
