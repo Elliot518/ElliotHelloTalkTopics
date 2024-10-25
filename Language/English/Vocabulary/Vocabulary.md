@@ -302,3 +302,4 @@ She was an industrious and willing worker
 她是个勤劳肯干的工人
 ```
 
+### homicide rates
