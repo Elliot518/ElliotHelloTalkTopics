@@ -25,3 +25,5 @@ many of them just put on their headphones pretending to be too busy to be bother
 Joe's pizza
 
 
+75% of the manhatton residents they don't have a car
+

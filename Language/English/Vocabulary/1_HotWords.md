@@ -435,3 +435,17 @@ These past ten years tell a story of resilience
 OG ongoing growth
 持续增长
 
+### promiscuous 
+/prəˈmɪskjuəs/
+随便，乱七八糟的
+```
+She is perceived as vain, spoiled, and promiscuous.
+她被认为是个虚荣、娇生惯养、淫乱的女人
+
+She is perceived as vain, spoiled, and promiscuous.
+她被认为是个虚荣、娇生惯养、淫乱的女人
+```
+
+### casino 
+/kəˈsiːnoʊ/
+赌场

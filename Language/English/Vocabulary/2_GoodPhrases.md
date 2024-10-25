@@ -222,3 +222,8 @@ After the scandal, he had to face the music and resign from his position
 Don't worry about it, just go with the flow
 ```
 
+### boost my confidence
+增加我的信心
+
+### zoom in and out  
+放大和缩小
