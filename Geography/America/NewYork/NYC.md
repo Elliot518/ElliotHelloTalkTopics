@@ -2,6 +2,9 @@
 
 <hr>
 
+> New York City situated on a large natural harbor composed of five boroughs /ˈbɜːroʊ/ (区，自治的镇), they are Bronx, Brooklyn, Queens, Staten Island, and of course Manhattan.
+
+
 55% of the households don't car there.
 New York City is the most popular city in US, with a population of 8.8 million and 20 million people live in the metro area.
 
