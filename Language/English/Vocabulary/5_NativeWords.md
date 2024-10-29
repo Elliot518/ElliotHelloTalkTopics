@@ -85,3 +85,13 @@ an American coutry restaurant
 ### sum it up
 
 
+### nitpicker
+吹毛求疵者
+
+### situation /ˌsɪtʃuˈeɪʃ(ə)n/
+```
+The situation is under control.
+局面得到了控制。
+```
+
+### activity /ækˈtɪvəti/

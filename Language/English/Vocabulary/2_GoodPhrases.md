@@ -227,3 +227,12 @@ Don't worry about it, just go with the flow
 
 ### zoom in and out  
 放大和缩小
+
+### culture melting pot
+熔炉
+
+### data breaches
+```
+A decade of data breaches of personal information has led to a situation where scammers can easily learn your mother 's name, and far more.
+长达十年的个人信息数据泄露导致骗子很容易地知道你母亲的名字，甚至其他更多信息。
+```

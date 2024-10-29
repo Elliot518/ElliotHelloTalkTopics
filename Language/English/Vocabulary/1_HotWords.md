@@ -449,3 +449,19 @@ She is perceived as vain, spoiled, and promiscuous.
 ### casino 
 /kəˈsiːnoʊ/
 赌场
+
+### enlightened
+/ɪnˈlaɪt(ə)nd/
+开明的
+```
+His words have enlightened me.
+他的一番话使我开了窍。
+```
+
+### rush hour
+上班高峰
+```
+The subway’s always packed during morning rush hour
+```
+
+

@@ -303,3 +303,62 @@ She was an industrious and willing worker
 ```
 
 ### homicide rates
+
+### impartial /ɪmˈpɑːrʃ(ə)l/
+公正的
+```
+As chairman, I must remain impartial.
+作为主席，我必须保持中立。
+
+He's absolutely impartial.; He is free from any bias.
+他丝毫不偏心。
+```
+
+### legitimate /lɪˈdʒɪtɪmət/
+合法的
+```
+Is his business strictly legitimate?
+他的生意是否绝对合法？
+```
+
+### consent to 
+同意
+```
+I didn't give my consent to the plan
+我没有同意计划
+```
+
+### adequate /ˈædɪkwət/
+充足的，足够的
+
+
+### rectify 
+纠正
+
+### rectifiable /ˌrektɪˈfaɪəbl/
+```
+The damage will be easily rectifiable.
+所受损坏很容易修复。
+```
+
+### integrity 
+/ɪnˈteɡrəti/
+正直，诚实，完整
+
+```
+He Is a man of rock-solid integrity
+他是一个正直可靠的男人
+```
+
+### occasion /əˈkeɪʒn/
+```
+He was improperly dressed for the occasion.
+他的衣着不大适合这个场合。
+```
+
+### scenario /səˈnærioʊ/
+```
+The worst-case scenario is an aircraft will crash if a bird destroys an engine.
+如果小鸟毁坏了一部发动机，最坏的情形是飞机坠毁。
+```
+
