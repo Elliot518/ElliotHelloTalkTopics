@@ -362,3 +362,19 @@ The worst-case scenario is an aircraft will crash if a bird destroys an engine.
 如果小鸟毁坏了一部发动机，最坏的情形是飞机坠毁。
 ```
 
+### masculinity /ˌmæskjəˈlɪnəti/
+```
+He felt it was a threat to his masculinity.
+他觉得这对他的男子气概是一种威胁。
+
+In Korean culture, men cry and otherwise easily show their emotions, something that might be considered a betrayal of masculinity in Western culture.
+在韩国文化中，男人会哭，也会轻易地表现自己的情绪，但在西方文化中，这可能会被认为是对男性气质的背叛。
+```
+
+
+### mansplaining /ˈmænspleɪnɪŋ/
+男人说教
+```
+After "mansplaining", a group of "man"-prefixed words appeared to shame men for their bad behavior.
+在“男人说教”一词之后，一系列“男人”为前缀的词语应运而生，用以讽刺男人们的不良行为。
+```

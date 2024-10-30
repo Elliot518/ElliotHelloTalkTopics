@@ -15,3 +15,5 @@ When eating crab meat, do not eat the crab roe and crab paste. Sometimes, even t
 broccoli beef
 西兰花牛肉
 ```
+
+Talking while eating can interfere with your stomach acid secretion and harm your digestio
