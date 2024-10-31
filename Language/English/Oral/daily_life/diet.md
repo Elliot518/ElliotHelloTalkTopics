@@ -9,11 +9,11 @@ When eating crab meat, do not eat the crab roe and crab paste. Sometimes, even t
 
 &nbsp;
 
-### broccoli ˈbrɑːkəli/
+### broccoli /ˈbrɑːkəli/
 西兰花
 ```
 broccoli beef
 西兰花牛肉
 ```
 
-Talking while eating can interfere with your stomach acid secretion and harm your digestio
+Talking while eating can interfere with your stomach acid secretion and harm your digestion
