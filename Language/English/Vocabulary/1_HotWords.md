@@ -475,10 +475,21 @@ He’s got prejudice against me
 He’s biased against me
 ```
 
-ransomware
+### ransomware
 /ˈrænsəmwer/
 勒索软件
 ```
 The kidnapper - PGPCoder. E is also called "ransomware".
 绑架者病毒-PGPCoder.E又称“ransomware”
 ```
+
+### adverse
+/ədˈvɜːrs/
+不利的,有害的
+```
+This drug is known to have adverse side effects.
+众所周知，这种药具有不良副作用。
+```
+
+
+
