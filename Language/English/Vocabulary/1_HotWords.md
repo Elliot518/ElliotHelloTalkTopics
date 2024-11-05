@@ -474,3 +474,11 @@ He’s got prejudice against me
 
 He’s biased against me
 ```
+
+ransomware
+/ˈrænsəmwer/
+勒索软件
+```
+The kidnapper - PGPCoder. E is also called "ransomware".
+绑架者病毒-PGPCoder.E又称“ransomware”
+```
