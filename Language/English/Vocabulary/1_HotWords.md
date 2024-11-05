@@ -464,4 +464,13 @@ His words have enlightened me.
 The subway’s always packed during morning rush hour
 ```
 
+### prejudice / bias
+/ˈpredʒədɪs/
+偏见
+```
+I try to rise above prejudice.
+我尽力摆脱偏见。
+He’s got prejudice against me
 
+He’s biased against me
+```
