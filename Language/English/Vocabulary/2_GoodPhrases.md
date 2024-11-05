@@ -239,3 +239,10 @@ A decade of data breaches of personal information has led to a situation where s
 
 ### get ahead in life
 在生活中取得进步
+
+### on the table
+```
+“On the table” usually means something is open for discussion, consideration, or negotiation. For example, if someone says, “All options are on the table,” it means every possible solution or choice is being considered
+```
+
+
