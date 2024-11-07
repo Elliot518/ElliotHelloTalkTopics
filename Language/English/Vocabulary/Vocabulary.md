@@ -378,3 +378,24 @@ In Korean culture, men cry and otherwise easily show their emotions, something t
 After "mansplaining", a group of "man"-prefixed words appeared to shame men for their bad behavior.
 在“男人说教”一词之后，一系列“男人”为前缀的词语应运而生，用以讽刺男人们的不良行为。
 ```
+
+### illustrate /ˈɪləstreɪt/
+```
+Let me illustrate what I mean with an old story.
+让我用一个老故事来说明我指的是什么吧。
+```
+
+### hurdle /ˈhɜːrd(ə)l/
+阻碍,难关
+```
+His horse fell at the final hurdle.
+他骑的马在最后一个跨栏倒下了。
+```
+
+### commentary /ˈkɑːmənteri/
+现场解说
+sports commentary
+```
+You can hear commentary on the game at halftime.
+你可在中场休息时听到对比赛的评论。
+```

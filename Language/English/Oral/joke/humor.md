@@ -1,0 +1,1 @@
+Recently, I’ve been learning American humor from AI. Kinda weird, right? Learning jokes from a machine with zero emotions

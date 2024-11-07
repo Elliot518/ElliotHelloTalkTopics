@@ -1,0 +1,1 @@
+In ancient China, there was a guy named Jiang Taigong who fished without bait and used a straight fishing rod. He wasn’t really trying to catch fish, though—he was waiting to ‘catch’ the King
