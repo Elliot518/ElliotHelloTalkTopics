@@ -62,3 +62,4 @@ When a hurricane hits, it picks up a lot of debris /dəˈbriː/ pieces from hous
 A lot of elderly people in Japan are still working, like driving taxis, because of the real estate crash in the ’90s. When the property bubble burst, many people lost their savings and even ended up deep in debt, so they have no choice but to keep working, even when they should be retired
 ```
 
+### active learning and passive learning

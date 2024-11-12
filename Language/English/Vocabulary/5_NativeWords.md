@@ -95,3 +95,23 @@ The situation is under control.
 ```
 
 ### activity /ækˈtɪvəti/
+
+### vibe /vaɪb/
+感应,氛围
+```
+I love the chilling vibe
+我喜欢这种轻松的氛围
+
+The vibe in the restaurant is pretty laid back, not like ritzier restaurants in Beverly Hills.
+这家餐厅的氛围很悠闲，不像比弗利山的豪华餐厅。
+```
+
+### ritzier
+豪华的,高级的
+
+### nasty /ˈnæsti/
+可恶的
+```
+That was a nasty little trick.
+这是个可恶的小骗局。
+```

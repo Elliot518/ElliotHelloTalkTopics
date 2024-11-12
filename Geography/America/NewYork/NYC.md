@@ -35,3 +35,8 @@ Joe's pizza
 
 75% of the manhatton residents they don't have a car
 
+### Garbage in city
+```
+Garbage bags can be really piled up by the end of the week 
+they almost block the entrance
+```

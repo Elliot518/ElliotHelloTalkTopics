@@ -399,3 +399,10 @@ sports commentary
 You can hear commentary on the game at halftime.
 你可在中场休息时听到对比赛的评论。
 ```
+
+### standoffish /ˌstændˈɔːfɪʃ/
+冷淡的
+```
+He can be quite standoffish and rude, even to his friends.
+他有时会很冷淡，很粗鲁，甚至对自己的朋友也是如此。
+```
