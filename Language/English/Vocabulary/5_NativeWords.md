@@ -115,3 +115,14 @@ The vibe in the restaurant is pretty laid back, not like ritzier restaurants in 
 That was a nasty little trick.
 这是个可恶的小骗局。
 ```
+
+### famished 
+```
+implies extreme hunger, almost to the point of desperation
+```
+
+
+### ravenous 
+```
+suggests an intense, overwhelming hunger, like you could eat just about anything in sight
+```
