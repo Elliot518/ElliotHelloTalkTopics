@@ -406,3 +406,6 @@ You can hear commentary on the game at halftime.
 He can be quite standoffish and rude, even to his friends.
 他有时会很冷淡，很粗鲁，甚至对自己的朋友也是如此。
 ```
+
+### coyote /kaɪˈoʊti/
+丛林狼, 土狼
