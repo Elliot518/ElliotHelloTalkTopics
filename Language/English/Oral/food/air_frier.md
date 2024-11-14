@@ -1,0 +1,1 @@
+> Some people say that air fryers heat up the air to such high temperatures that it might produce harmful substances — who knows, right? But at least we’re cutting down on the oil we use, and that’s a good thing. I guess it’s a trade-off; there are pros and cons to it

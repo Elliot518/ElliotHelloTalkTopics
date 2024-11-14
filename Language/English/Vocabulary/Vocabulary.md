@@ -409,3 +409,36 @@ He can be quite standoffish and rude, even to his friends.
 
 ### coyote /kaɪˈoʊti/
 丛林狼, 土狼
+
+### seduce /sɪˈdjuːs/
+```
+They will face a lot of seducing temptations
+他们会受到很多诱惑
+```
+
+### catchphrase
+口头禅
+
+### hiccups /ˈhɪkʌps/
+打嗝
+```
+Getting scared can stop hiccups
+```
+
+### predominant /prɪˈdɑːmɪnənt/
+主导的
+```
+Mandy's predominant emotion was confusion.
+曼迪的主导情绪是困惑。
+```
+
+### snore /snɔːr/
+打鼾
+```
+People with stuffy or blocked noses often snore.
+鼻塞的人经常打鼾。
+```
+
+### flunk the classes
+考试不及格
+
