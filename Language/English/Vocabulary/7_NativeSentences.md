@@ -29,3 +29,6 @@ eg: what it really comes down to is your happiness (真正重要的是你的幸�
 
 ### You’re such a life saver
 
+### you're committed to your growth 
+你致力于自己的成长
+

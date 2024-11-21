@@ -455,3 +455,5 @@ Shadow reading is a language learning technique where you listen to an audio rec
 ### irritating dude
 令人讨厌的家伙
 
+### nostalgia /nəˈstældʒə/
+怀旧的
