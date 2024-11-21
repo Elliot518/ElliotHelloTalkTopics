@@ -442,3 +442,16 @@ People with stuffy or blocked noses often snore.
 ### flunk the classes
 考试不及格
 
+### jaywalking 
+乱穿马路
+
+### Shadow reading
+```
+Shadow reading is a language learning technique where you listen to an audio recording (such as a podcast, speech, or dialogue) and read along with a written transcript at the same time. The idea is to follow the speaker as closely as possible, mimicking the pronunciation, intonation, and rhythm.
+```
+
+
+
+### irritating dude
+令人讨厌的家伙
+
