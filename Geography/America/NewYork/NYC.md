@@ -10,6 +10,12 @@ All streets are perpendicular ˌpɜːrpənˈdɪkjələr/ (垂直的) and form a 
 55% of the households don't car there.
 New York City is the most popular city in US, with a population of 8.8 million and 20 million people live in the metro area.
 
+- Broadway
+
+  > Broadway runs diagonally /daɪˈæɡənəli/ (对角线的) across the island
+
+
+> The basic thing to remember is that avenues run north and south while streets run east and west
 
 - Manhattan
 
