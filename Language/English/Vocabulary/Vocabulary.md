@@ -457,3 +457,9 @@ Shadow reading is a language learning technique where you listen to an audio rec
 
 ### nostalgia /nəˈstældʒə/
 怀旧的
+
+### reincarnation /ˌriːɪnkɑːrˈneɪʃn/
+再生, 投胎
+```
+If you do good things, in your next life, you’ll have a better reincarnation.
+```
