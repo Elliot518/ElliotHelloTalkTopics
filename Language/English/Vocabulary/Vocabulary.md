@@ -463,3 +463,6 @@ Shadow reading is a language learning technique where you listen to an audio rec
 ```
 If you do good things, in your next life, you’ll have a better reincarnation.
 ```
+
+### geometry /dʒiˈɑːmətri/
+几何学
