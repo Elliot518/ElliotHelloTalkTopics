@@ -497,5 +497,5 @@ This drug is known to have adverse side effects.
 The term “concrete jungle” refers to a city or urban area that is densely packed with buildings, roads, and other man-made structures, often evoking a sense of overcrowding, chaos, or lack of nature. It highlights the overwhelming dominance of concrete and artificial environments in contrast to natural landscapes.
 
 The phrase is commonly used to describe places like New York City, where skyscrapers and bustling streets create a maze-like atmosphere. It can have both a neutral or slightly negative connotation /ˌkɑːnəˈteɪʃ(ə)n/
-(内涵意义), depending on context, suggesting either the vibrant energy of urban life or its overwhelming, stifling nature.
+(内涵意义), depending on context, suggesting either the vibrant energy of urban life or its overwhelming, stifling /ˈstaɪflɪŋ/ (令人窒息的) nature.
 ```
