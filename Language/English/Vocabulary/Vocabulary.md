@@ -473,5 +473,9 @@ If you do good things, in your next life, you’ll have a better reincarnation.
 She acts so pretentious
 ```
 
-
-
+### stifle /ˈstaɪf(ə)l/
+扼杀, 抑制
+```
+She managed to stifle a yawn.
+stifle growth
+```

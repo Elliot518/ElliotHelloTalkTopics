@@ -32,3 +32,8 @@ eg: what it really comes down to is your happiness (真正重要的是你的幸�
 ### you're committed to your growth 
 你致力于自己的成长
 
+### topic discusstion
+```
+I'm not going off topic, I'm going deep inside so we can understand why things are and how they are
+```
+

@@ -252,8 +252,9 @@ A decade of data breaches of personal information has led to a situation where s
 倒垃圾
 
 
+### get in line 
+排队
 
-
-
-
+### yawning is contagious
+打哈欠会传染
 
