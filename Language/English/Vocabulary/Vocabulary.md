@@ -466,3 +466,12 @@ If you do good things, in your next life, you’ll have a better reincarnation.
 
 ### geometry /dʒiˈɑːmətri/
 几何学
+
+### Pretentious /prɪˈtenʃəs/
+做作, 自命不凡的
+```
+She acts so pretentious
+```
+
+
+
