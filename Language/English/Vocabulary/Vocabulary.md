@@ -479,3 +479,8 @@ She acts so pretentious
 She managed to stifle a yawn.
 stifle growth
 ```
+### 小区
+```
+apartment complex
+residential compound
+```

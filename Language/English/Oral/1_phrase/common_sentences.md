@@ -19,3 +19,9 @@
 ### 4. I'm digging it
 
 ### 5. I definitely recommend
+
+### 6. Let's call it a day 
+```
+让我们到此为止
+```
+
