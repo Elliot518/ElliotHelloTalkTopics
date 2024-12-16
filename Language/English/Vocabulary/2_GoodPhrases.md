@@ -258,3 +258,8 @@ A decade of data breaches of personal information has led to a situation where s
 ### yawning is contagious
 打哈欠会传染
 
+### don't sugarcoat it
+别说那么好听
+
+
+
