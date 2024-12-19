@@ -262,4 +262,6 @@ A decade of data breaches of personal information has led to a situation where s
 别说那么好听
 
 
+### blessing in disguise 
+因祸得福
 
