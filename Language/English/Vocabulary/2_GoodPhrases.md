@@ -265,3 +265,5 @@ A decade of data breaches of personal information has led to a situation where s
 ### blessing in disguise 
 因祸得福
 
+### you look sharp 
+你看上去很精神
