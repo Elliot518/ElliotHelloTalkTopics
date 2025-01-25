@@ -9,6 +9,8 @@ Alternatively, you can run a Gradle task in Eclipse by right-clicking Project in
 illustrate /ˈɪləstreɪt/
 说明, 阐明
 
-## Ironically /aɪˈrɑːnɪkli/
+### Ironically /aɪˈrɑːnɪkli/
 具有讽刺意味的是
 
+### theoretically /ˌθiːəˈretɪkli/
+理论上
