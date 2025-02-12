@@ -37,3 +37,6 @@ eg: what it really comes down to is your happiness (真正重要的是你的幸�
 I'm not going off topic, I'm going deep inside so we can understand why things are and how they are
 ```
 
+### It’s been hyped up too much
+It’s been blown out of proportion
+它被吹捧得太高了
