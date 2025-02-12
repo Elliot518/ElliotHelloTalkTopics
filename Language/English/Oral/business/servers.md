@@ -1,0 +1,2 @@
+> If there’s a discount, I’ll buy a cloud server for a year. If not, I’ll start with 1 to 2 months to test the waters since I'm not very familiar with overseas servers and want to be cautious. Things are always evolving, so depending on how it goes, I’ll decide on the next steps. The first year for new users usually has great discounts, but after that, the renewal price can easily go up 2 to 3 times
+
