@@ -267,3 +267,8 @@ A decade of data breaches of personal information has led to a situation where s
 
 ### you look sharp 
 你看上去很精神
+
+### This job has fulfilled its historical mission
+This task has served its historical purpose
+这份工作完成了它的历史使命
+
