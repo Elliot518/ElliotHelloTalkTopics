@@ -80,3 +80,10 @@ I had a little scare yesterday on my way to work.
 I was feeling hungry, so I stopped by a KFC. I had my wireless Bluetooth earbuds in, you know, the kind with the soft silicone ear tips. After I ordered, I sat down and was ready to enjoy my breakfast. But when I took out my earbuds, the left ear tip got stuck in my ear! I started to panic because I couldn’t see it, and when I tried to pull it out, it was stuck too tight, the more I tried, the deeper it seemed to go, and I freaked out for a second, thinking I might need to go to the hospital to get it out. But I decided to ask for help instead. I found one of the KFC workers, this older madam, she managed to pull it out for me. I was so appreciated!
 And right after that, I immediately ordered a pair of wireless Bluetooth earbuds online that don’t have any ear tips!
 ```
+
+
+### Subway rushing
+> Today, I took the subway. Just as the doors were closing, I rushed in, you know, because if I missed it, I’d have to wait a few more minutes. Once I got on, I zoned out listening to music, and I didn’t even realize when my stop came. I only noticed I missed a station when it was too late, so I got off and hopped back on the train to go back.
+The time I thought I saved ended up being spent without even noticing.
+It made me realize something about life. Some people work themselves to the bone, staying up late, and at first, they make a lot of money. But eventually, all that money goes toward medical bills.
+

@@ -484,3 +484,24 @@ stifle growth
 apartment complex
 residential compound
 ```
+
+### alternative
+/ɔːlˈtɜːrnətɪv/
+替代物
+```
+eg:
+Old working-class areas of the city are being gentrified.
+这个城市工人居住的老城区正在进行改造，以供较高阶层人士居住。
+
+The local neighbourhood, like so many areas of Manhattan, is gradually being gentrified.
+同曼哈顿的许多地区一样，当地街区正逐渐贵族化。
+
+adj. 十分（或过于）高雅的；下层住宅（或区域）高档化的
+vt. 使……贵族化（gentrify 的过去式和过去分词形式）
+原形 gentrify
+```
+
+
+### adolescent
+/ˌædəˈles(ə)nt/
+青春期的；不成熟的

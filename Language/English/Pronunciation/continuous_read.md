@@ -9,3 +9,11 @@ Pay attention to the continuous reading between words
 
 Do you have any ...
 /dəjəveni/
+
+
+
+- behind him 
+  ```
+  h不发音
+  eg: lock the door behind them
+  ```
