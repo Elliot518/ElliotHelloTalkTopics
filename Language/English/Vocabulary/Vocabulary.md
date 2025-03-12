@@ -505,3 +505,13 @@ vt. 使……贵族化（gentrify 的过去式和过去分词形式）
 ### adolescent
 /ˌædəˈles(ə)nt/
 青春期的；不成熟的
+
+### troll
+/troʊl/
+巨怪，侏儒怪物；恶意挑衅的帖子，发挑衅帖子的人；
+synonum:
+heckler
+/ˈheklər/
+激烈质问者
+
+
