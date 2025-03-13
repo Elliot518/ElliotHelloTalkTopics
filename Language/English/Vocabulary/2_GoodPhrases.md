@@ -272,3 +272,5 @@ A decade of data breaches of personal information has led to a situation where s
 This task has served its historical purpose
 这份工作完成了它的历史使命
 
+### you get what you pay for
+一分价钱一份货
