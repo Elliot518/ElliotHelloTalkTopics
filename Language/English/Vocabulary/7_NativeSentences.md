@@ -40,3 +40,9 @@ I'm not going off topic, I'm going deep inside so we can understand why things a
 ### It’s been hyped up too much
 It’s been blown out of proportion
 它被吹捧得太高了
+
+### I just felt like you guys were vibing so well that...
+
+
+
+

@@ -515,3 +515,11 @@ heckler
 激烈质问者
 
 
+### warp
+/wɔːrp/
+v. （使）扭曲，（使）变形；使反常，使有偏见；用绞船索牵曳（船）；（纺织用语）把（纱）排列成经；淤灌（土地）
+n. （织布中的）经纱，经线；变形，扭曲；（小说中或假想的空间旅行）靠扭曲时空实现，穿越时空；（喻）（性格）乖戾；绞船索
+```
+Left out in the heat of the sun, tapes easily warp or get stuck in their cases.
+放在太阳底下暴晒后，磁带容易翘曲变形或卡带。
+```
