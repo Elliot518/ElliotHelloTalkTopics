@@ -126,3 +126,6 @@ implies extreme hunger, almost to the point of desperation
 ```
 suggests an intense, overwhelming hunger, like you could eat just about anything in sight
 ```
+
+### sound proof
+隔音的
