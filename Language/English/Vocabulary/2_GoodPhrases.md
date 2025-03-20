@@ -274,3 +274,16 @@ This task has served its historical purpose
 
 ### you get what you pay for
 一分价钱一份货
+
+### be hailed as
+被誉为：被公认为某种特质、成就或地位而受到赞扬或尊敬。
+```
+eg:
+The cast and crew of British movies will no longer be hailed as the underdogs at awards ceremonies.
+在颁奖典礼上，英国电影的演员和全体工作人员将再也不会被称为失败者。
+
+On their return, they would be hailed as heroes
+他们胜利归来的时候，将受到英雄般的欢迎
+
+He is hailed as the greatest French chef--or maybe the French people would say the greatest chef--of.the twentieth century
+```
