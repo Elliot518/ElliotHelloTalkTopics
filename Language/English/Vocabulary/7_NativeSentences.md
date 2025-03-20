@@ -46,3 +46,6 @@ It’s been blown out of proportion
 
 
 
+### your voice's been cutting in and out
+你的声音断断续续(信号不好)
+

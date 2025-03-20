@@ -526,3 +526,52 @@ Left out in the heat of the sun, tapes easily warp or get stuck in their cases.
 
 ### plastic wrap 
 保鲜膜
+
+### three-Michelin-star restaurant
+/ˈmɪʃəlɪn; ˈmɪtʃəlɪn/
+
+米其林三星餐厅
+
+### repress
+/rɪˈpres/
+
+v. 压抑（痛苦的情感、回忆等）；抑制，克制（行为）；（尤指用武力）镇压，压制；实施镇压；使受阻遏
+```
+eg:
+He burst in, making no effort to repress his fury.
+他冲了进来，毫不掩饰自己的愤怒。
+
+Never repress your emotions, otherwise, they would accumulate and boil over one day.
+不要压抑自己的情绪，不然有一天这些情绪会积累，然后在某一天爆发出来。
+```
+
+
+### enact
+/ɪˈnækt/
+
+颁布
+```
+enact laws to protect the environment 
+```
+
+### deport
+/dɪˈpɔːrt/
+```
+deport illegal immigrants
+```
+
+### deportation
+/ˌdiːpɔːrˈteɪʃn/
+n. 驱逐出境
+```
+Several of the asylum seekers now face deportation.
+```
+
+### asylum
+n. 政治避难，政治庇护
+```
+He claimed political asylum.
+
+他要求政治避难。
+```
+
