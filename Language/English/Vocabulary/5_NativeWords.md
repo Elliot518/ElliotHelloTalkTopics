@@ -129,3 +129,10 @@ suggests an intense, overwhelming hunger, like you could eat just about anything
 
 ### sound proof
 隔音的
+
+### detractor
+/dɪˈtræktər/
+n. 贬低者；诽谤者
+```
+This performance will silence many of his detractors
+```

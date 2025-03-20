@@ -523,3 +523,6 @@ n. （织布中的）经纱，经线；变形，扭曲；（小说中或假想�
 Left out in the heat of the sun, tapes easily warp or get stuck in their cases.
 放在太阳底下暴晒后，磁带容易翘曲变形或卡带。
 ```
+
+### plastic wrap 
+保鲜膜

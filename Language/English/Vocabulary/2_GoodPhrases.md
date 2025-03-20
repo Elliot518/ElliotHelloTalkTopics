@@ -287,3 +287,10 @@ On their return, they would be hailed as heroes
 
 He is hailed as the greatest French chef--or maybe the French people would say the greatest chef--of.the twentieth century
 ```
+
+### at the critical juncture
+在某个关键时刻
+
+
+### in broad daylight 
+在光天化日之下

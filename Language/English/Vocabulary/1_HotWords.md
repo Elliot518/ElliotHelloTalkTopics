@@ -499,3 +499,13 @@ The term “concrete jungle” refers to a city or urban area that is densely pa
 The phrase is commonly used to describe places like New York City, where skyscrapers and bustling streets create a maze-like atmosphere. It can have both a neutral or slightly negative connotation /ˌkɑːnəˈteɪʃ(ə)n/
 (内涵意义), depending on context, suggesting either the vibrant energy of urban life or its overwhelming, stifling /ˈstaɪflɪŋ/ (令人窒息的) nature.
 ```
+
+### astronomical
+/ˌæstrəˈnɑːmɪk(ə)l/
+天文数字的，极其巨大的
+```
+The figures are astronomical.
+这些都是天文数字。
+
+astronomical achievements
+```
