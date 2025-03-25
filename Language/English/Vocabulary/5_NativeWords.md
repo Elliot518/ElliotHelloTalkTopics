@@ -136,3 +136,29 @@ n. 贬低者；诽谤者
 ```
 This performance will silence many of his detractors
 ```
+
+### oblivious
+/əˈblɪviəs/
+
+不在意的, 未察觉的
+```
+You eventually become oblivious to the noise.
+你终究会变得不在意吵闹声的。
+
+He drove off, oblivious of the damage he had caused.
+他车开走了，没有注意到他所造成的损害。
+```
+
+### dampen
+/ˈdæmpən/
+
+削减,减弱
+```
+Nothing seems to dampen his perpetual enthusiasm.
+似乎没有什么能减弱他持久的热情。
+
+She wasn't going to let anything dampen her spirits today.
+她不想让任何事情来影响她今天的兴致。
+
+That really dampens the mood
+```

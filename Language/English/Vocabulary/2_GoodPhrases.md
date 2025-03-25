@@ -294,3 +294,14 @@ He is hailed as the greatest French chef--or maybe the French people would say t
 
 ### in broad daylight 
 在光天化日之下
+
+### shoot the breeze
+闲聊
+```
+We like to shoot the breeze during the break.
+我们喜欢在休息时闲聊。
+
+We like to shoot the breeze during the break.
+在休息期间我们喜欢出去吹风。
+```
+
