@@ -575,3 +575,17 @@ He claimed political asylum.
 他要求政治避难。
 ```
 
+### rummage
+/ˈrʌmɪdʒ/
+翻找，乱翻
+- rummage through
+  ```
+  you're rummaging through your fridge
+
+
+  They rummage through piles of secondhand clothes for something that fits.
+
+  他们在成堆的二手衣服中翻找合身的衣服。
+  ```
+
+
