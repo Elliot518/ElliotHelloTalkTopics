@@ -589,3 +589,55 @@ He claimed political asylum.
   ```
 
 
+### perpendicular
+/ˌpɜːrpənˈdɪkjələr/
+
+相互垂直的
+```
+all streets are perpendicular and form a grid
+Are the lines perpendicular to each other?
+这些直线相互垂直吗？
+```
+
+### geometry
+/dʒiˈɑːmətri/
+
+几何学
+
+
+### diagonal
+/daɪˈæɡən(ə)l/
+
+对角线的
+```
+In chess, the horse starts out in a straight line and then it hops off on a diagonal.
+马从一条直线出发，然后沿着对角线跳跃。
+```
+
+### marble
+/ˈmɑːrb(ə)l/
+
+大理石
+blue marble 蓝星
+```
+The earth looks like a big blue marble.
+地球看上去就像一个巨大的蓝色玻璃球。
+```
+
+### monstrous
+/ˈmɑːnstrəs/
+
+巨大的
+```
+His monstrous pearl was extremely valuable.
+他那颗巨大的珍珠价值连城。
+```
+
+### bureaucracy
+/bjʊˈrɑːkrəsi/
+
+官僚主义
+```
+bureaucracy is a roadblock to innovation
+官僚主义是否是阻碍创新的绊脚石
+```
