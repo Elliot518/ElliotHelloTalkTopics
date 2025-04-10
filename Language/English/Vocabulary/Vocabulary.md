@@ -641,3 +641,14 @@ His monstrous pearl was extremely valuable.
 bureaucracy is a roadblock to innovation
 官僚主义是否是阻碍创新的绊脚石
 ```
+
+### vigilante
+/ˌvɪdʒɪˈlænti/
+
+义务警察
+```
+solo vigilante heros i
+
+He became a true vigilante, claiming "I am judge and jury".
+他成了一个义务警察，声称“我就是法官和陪审团”
+```
