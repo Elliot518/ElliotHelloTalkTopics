@@ -652,3 +652,30 @@ solo vigilante heros i
 He became a true vigilante, claiming "I am judge and jury".
 他成了一个义务警察，声称“我就是法官和陪审团”
 ```
+
+### whirlwind
+/ˈwɜːrlwɪnd/
+
+旋风
+```
+They had a whirlwind romance
+
+他们之间有过一段短暂的风流韵事
+
+
+After a whirlwind romance the couple announced their engagement in July.
+在旋风式的恋爱之后，这对情侣在7月宣布定婚。
+```
+
+### abbreviation
+/əˌbriːviˈeɪʃn/
+
+缩略词
+```
+ETA estimation time of arrival
+```
+
+### hodgepodge
+/ˈhɑːdʒpɑːdʒ/
+
+大杂烩
