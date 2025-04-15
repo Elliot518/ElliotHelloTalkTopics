@@ -679,3 +679,29 @@ ETA estimation time of arrival
 /ˈhɑːdʒpɑːdʒ/
 
 大杂烩
+
+### abundance
+/əˈbʌndəns/
+
+大量，丰富；繁荣
+```
+financial abundance
+财务自由
+
+With hard work and smart investments, he achieved financial abundance.
+通过努力工作和聪明的投资，他实现了财务丰盈(自由)。
+
+
+If you want to create financial abundance, you've got to start managing your money.
+假如你想创造充裕的个人财务，你就得开始给自己理财了。
+```
+
+### congested
+/kənˈdʒestɪd/
+
+堵塞的，拥挤的
+```
+congested area人口稠密区拼抢区
+
+如果他们对你开发的软件依赖性很强，哪怕一开始给他们免费使用，最终都可以赚到他们的钱，用户逃不掉的
+```
