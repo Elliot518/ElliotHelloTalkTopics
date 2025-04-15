@@ -702,6 +702,4 @@ If you want to create financial abundance, you've got to start managing your mon
 堵塞的，拥挤的
 ```
 congested area人口稠密区拼抢区
-
-如果他们对你开发的软件依赖性很强，哪怕一开始给他们免费使用，最终都可以赚到他们的钱，用户逃不掉的
 ```
