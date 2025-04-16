@@ -305,3 +305,13 @@ We like to shoot the breeze during the break.
 在休息期间我们喜欢出去吹风。
 ```
 
+### look down on
+看不起
+```
+I wish you wouldn't look down on this kind of work.
+我希望你不要看不起这种工作。
+```
+
+### frog sitting on a lily pad
+等待时机的青蛙
+

@@ -703,3 +703,12 @@ If you want to create financial abundance, you've got to start managing your mon
 ```
 congested area人口稠密区拼抢区
 ```
+
+### rhyme
+/raɪm/
+
+押韵短诗
+```
+rhyme game
+```
+
