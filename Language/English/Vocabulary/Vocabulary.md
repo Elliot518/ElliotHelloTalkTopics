@@ -712,3 +712,16 @@ congested area人口稠密区拼抢区
 rhyme game
 ```
 
+### dreadlocks
+脏辫
+
+### cognition
+/kɑːɡˈnɪʃ(ə)n/
+
+认知
+
+### perception
+/pərˈsepʃ(ə)n/
+
+感知
+
