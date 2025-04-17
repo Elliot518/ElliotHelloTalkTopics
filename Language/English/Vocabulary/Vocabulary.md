@@ -725,3 +725,63 @@ rhyme game
 
 感知
 
+### solidify
+/səˈlɪdɪfaɪ/
+（使）凝固，变硬
+```
+Solidify cooperation
+团结协作
+```
+
+### appreciate
+升值
+```
+The euro has appreciated against the Chinese yuan
+欧元兑人民币升值了
+```
+
+### calf
+/kæf/
+
+小牛，牛犊
+
+```
+highland calf
+高原牛
+```
+
+### brag
+/bræɡ/
+
+吹牛，自夸
+```
+I don't mean to brag or make anyone feel bad, but...
+```
+
+
+### proportion
+/prəˈpɔːrʃ(ə)n/
+
+比例
+```
+the windows seem out of proportion.
+这些窗子似乎不成比例。
+
+next time if you make xxx, you could use equal proportions of a and b
+```
+
+### phobic
+/ˈfoʊbɪk/
+
+恐惧症的
+```
+green-phobic
+绿色恐惧症
+```
+
+### trypophobia
+密集恐惧症
+
+### unspoken rules
+潜规则
+
